@@ -14,7 +14,7 @@
     </span>
     </br>
 
-    <span style="margin-left:50;display:inline-block"> <span/>
+    <span style="margin-top: 7px; display:inline-block"> <span/>
 
     <span class="logo">&lt;8)</span>
     <span id="org-link" style="display:inline">
