@@ -20,6 +20,7 @@
 
     <p> This is a test restricted page. </p>
     <p> Only logged in members should be able to view this. </p>
+    <p> Gj Breeze, you're in </p>
 
 
 <?php
