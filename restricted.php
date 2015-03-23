@@ -5,7 +5,7 @@
   <?php include "imports.php"; ?>
 </head>
 <body>
-  <style> #login-link { font-weight:bold; } </style>
+  <style> #restricted-link { font-weight:bold; } </style>
   <?php include "header.php"; ?>
   <div class="container">
     <h2>Test Page</h2>
