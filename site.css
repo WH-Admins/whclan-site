@@ -1,0 +1,31 @@
+.greybox {
+  background:#EEE; padding:20
+}
+
+.whitebox {
+  background:#FFF; padding:20
+}
+
+.brightbox {
+  background:#FFFFFF; padding:20
+}
+
+div.splitleft {
+  width:50% ; float:left ; height:100%
+}
+
+div.splitright {
+  margin-left:50% ; height:100%
+}
+
+p.important {
+  color:grey ; font-size:110%
+}
+
+.headerbox {
+  background:grey ; padding:20 ; padding-top:5
+}
+
+.logo {
+  color:red ; font-size:120% ; font-family:monospace
+}
