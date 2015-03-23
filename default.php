@@ -20,9 +20,9 @@ the go-to location for WH members, providing the 3 factors necessary for us to f
     <div>
       <div class="splitleft"><div class="greybox">
         Here is our roster
-        <a href="https://docs.google.com/spreadsheets/d/1SzqZvYW-npuz9vYqTB6ovU4QYf0fgXcWkhZz4bJvJZ4/edit?usp=sharing"><em>on Google docs</em></a>. Thanks to all the people who helped me fill this out. It's still not complete, but we're getting good information on lots of stuff. If you have ideas for team composition, tell us on reddit or IRC; if you have factual information to add, edit it directly into the roster.</li>
+        <a href="https://1334.com"><em>on Google docs</em></a>. Thanks to all the people who helped me fill this out. It's still not complete, but we're getting good information on lots of stuff. If you have ideas for team composition, tell us on reddit or IRC; if you have factual information to add, edit it directly into the roster.</li>
       </div> </div>
-      <div class="splitright"><div class="whitebox">
+      <div class="splitright"><div class="nobox">
         <div align="center"> <img src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
       </div></div>
     </div>
