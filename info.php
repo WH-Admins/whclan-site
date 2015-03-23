@@ -26,7 +26,8 @@
       </div></div>
       <div class="splitleft"><div class="greybox">
   	<em>Team Calander</em>
-        <div> Upcoming scrims and such go here. </div>
+        <div> scrim vs implosion &lt;i&gt;<br>
+        sunday March, 29th @ 8 pm GMT</div>
       </div></div>
     </div>
   </div>
