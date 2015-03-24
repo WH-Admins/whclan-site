@@ -25,7 +25,7 @@ $news = get_news();
     </style>
 
     <div class="content-box">
-      <div class="splitleft"><div class="whitebox">
+      <div class="split"><div class="whitebox">
 
         <?php foreach($news['news'] as $post){ ?>
             <div class="newstitle">
@@ -41,7 +41,7 @@ $news = get_news();
 
       </div></div>
 
-      <div class="splitleft"><div class="whitebox">
+      <div class="split"><div class="whitebox">
 
         <?php foreach($news['calendar'] as $post){ ?>
             <div class="newstitle">

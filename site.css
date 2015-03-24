@@ -16,14 +16,10 @@
   padding: 20px;
 }
 
-div.splitleft {
+div.split {
   width: 50%;
   float: left;
   height: 100%;
-}
-
-div.splitright {
-  margin-left:50% ; height:100%
 }
 
 p.important {
