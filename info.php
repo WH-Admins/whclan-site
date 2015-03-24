@@ -15,7 +15,6 @@ $news = get_news();
   <div class="container">
     <h2>It's nice to know what's going on.</h2>
     <p> Here we have some news and some team calendar stuff. Good to know. </p>
-
     <style>
       div.newsitem {
         padding-left:20 ; font-size:120% ; padding-bottom:10
