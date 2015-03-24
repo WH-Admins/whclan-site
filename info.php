@@ -13,15 +13,18 @@ $news = get_news();
   <?php include "header.php"; ?>
 
   <div class="container">
-    <h2>It's nice to know what's going on.</h2>
-    <p> Here we have some news and some team calendar stuff. Good to know. </p>
+    <div class="head-box">
+      <h2>It's nice to know what's going on.</h2>
+      <p> Here we have some news and some team calendar stuff. Good to know. </p>
+    </div>
+
     <style>
       div.newsitem {
         padding-left:20 ; font-size:120% ; padding-bottom:10
       }
     </style>
 
-    <div style="margin-top:20">
+    <div class="content-box">
       <div class="splitleft"><div class="whitebox">
 
         <?php foreach($news['news'] as $post){ ?>
@@ -38,7 +41,7 @@ $news = get_news();
 
       </div></div>
 
-      <div class="splitleft"><div class="whitebox" style="border-left: 1px solid #888;">
+      <div class="splitleft"><div class="whitebox">
 
         <?php foreach($news['calendar'] as $post){ ?>
             <div class="newstitle">
@@ -53,8 +56,8 @@ $news = get_news();
         <?php } ?>
 
       </div></div>
-      </div></div>
-    </div>
-  </div>
+    </div> <!-- end of content-box -->
+
+  </div> <!-- end of container -->
 </body>
 </html>
