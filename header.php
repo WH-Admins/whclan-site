@@ -7,7 +7,7 @@
   $login = new Login();
 ?>
 
-<div class="nav sitehead" style="height: 50px;">
+<div class="nav sitehead" style="min-height: 50px; display: table-cell">
   <div class="container">
     <span class="pagename current">
       Website of the <b>Wreaking Havoc</b> Clan
