@@ -1,6 +1,8 @@
 .greybox {
-  background: #EEE;
-  padding: 20px;
+  background: #EEEEEE;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #CCC
 }
 
 .whitebox {
@@ -48,4 +50,8 @@ p.important {
 .newscontent {
   padding: 10px;
   margin-bottom: 20px;
+}
+
+strike {
+  color: #666;
 }

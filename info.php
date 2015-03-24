@@ -23,7 +23,6 @@ $news = get_news();
 
     <div style="margin-top:20">
       <div class="splitleft"><div class="whitebox">
-        <h3>Team News</h3></br>
 
         <?php foreach($news['news'] as $post){ ?>
             <div class="newstitle">
@@ -40,7 +39,6 @@ $news = get_news();
       </div></div>
 
       <div class="splitleft"><div class="whitebox" style="border-left: 1px solid #888;">
-        <h3>Upcoming Events</h3></br>
 
         <?php foreach($news['calendar'] as $post){ ?>
             <div class="newstitle">
