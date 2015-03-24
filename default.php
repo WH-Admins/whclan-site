@@ -22,7 +22,7 @@ once and a while; whatever makes more sense to you. <b>If you want to know what'
         <p> Lots of things have been happening! Here are some things that have yet to been concluded:
         <p><em>for developers</em></p>
         <ul>
-          <li>Make reddit scheme cleaner and more suggestive of altitude, and add a way to tag posts according to their content. (Assigned to MagneticDuck)</li>
+          <li><strike>Make reddit scheme cleaner and more suggestive of altitude, and add a way to tag posts according to their content. (Assigned to MagneticDuck)</strike> done <8) </li>
           <li>Investigate the addition of some sort of mailing list.</li>
           <li><strike>Investigate the addition of an automated system to put adequately classified reddit posts on the site's news feed.</strike> done ^_^</li>
         </ul>
