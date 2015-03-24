@@ -12,7 +12,7 @@
 }
 
 .brightbox {
-  background: #FFFFFF;
+  background: #FFF;
   padding: 20px;
 }
 
@@ -32,11 +32,13 @@ p.important {
 
 .newstitle {
   font-size: 130%;
+  background-color: #777
 }
 
 .newslink {
   font-size: 60%;
   float: right;
+  vertical-align: center;
 }
 
 .newscontent {
