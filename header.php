@@ -34,6 +34,10 @@
       <span id="restricted-link" style="display:inline">
         <a href="restricted.php">Restricted</a></span>
 
+      <span class="logo">&lt;8)</span>
+      <span id="videos-link" style="display:inline">
+        <a href="videos.php">Videos</a></span>
+
       <span class="logo" style="padding-right:20px;"> | </span>
 
       <span id="logout-link" style="display:inline">
