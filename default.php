@@ -28,8 +28,8 @@ once and a while; whatever makes more sense to you. <b>If you want to know what'
         </ul>
         <p><em>for clan members</em></p>
         <ul>
-          <li>Populate our <a href="http://www.reddit.com/r/whclan">subreddit</a></li>
-          <li>Populate our IRC channel (make a post in the Roll Call)</li>
+          <li>Populate our <a href="http://www.reddit.com/r/whclan">subreddit</a>(make a post in the Roll Call)</li>
+          <li>Populate our IRC channel </li>
         </ul>
       </div> </div>
       <div class="splitright"><div class="nobox">
