@@ -20,7 +20,7 @@ once and a while; whatever makes more sense to you. <b>If you want to know what'
       <div class="splitleft"><div class="greybox">
         <p><h3>TO-DO list</h3></p>
         <p> Lots of things have been happening! Here are some things that have yet to been concluded:
-        <p><em>for developer</em></p>
+        <p><em>for developers</em></p>
         <ul>
           <li>Make reddit scheme cleaner and more suggestive of altitude, and add a way to tag posts according to their content. (Assigned to MagneticDuck)</li> 
           <li>Investigate the addition of some sort of mailing list.</li> 
