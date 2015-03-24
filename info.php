@@ -1,3 +1,8 @@
+<?php
+require_once('classes/redditNews.php');
+$news = get_news();
+?>
+
 <html>
 <head>
   <?php include "imports.php"; ?>
@@ -9,8 +14,7 @@
 
   <div class="container">
     <h2>It's nice to know what's going on.</h2>
-    <p> Here we have some news and some team calandar stuff. Good to know. </p>
-
+    <p> Here we have some news and some team calendar stuff. Good to know. </p>
     <style>
       div.newsitem {
         padding-left:20 ; font-size:120% ; padding-bottom:10
@@ -19,15 +23,32 @@
 
     <div style="margin-top:20">
       <div class="splitleft"><div class="whitebox">
-  	<p><em>Team News</em></p>
-  	    <div class="newsitem"> Label and Evel organised a scrim vs Implosion &lt;i&gt;! This sunday March 29th at 8 pm GMT right after SL. </div>
-        <div class="newsitem"> LewisH brings our very own clan server to life! Scrims in the future will be a lot less painful to organise. <a href="http://www.reddit.com/r/whclan/comments/2zxign/clan_server/">22/03/15 19:18 GMT</a> </div>
-        <div class="newsitem"> Our subreddit is now online! <a href="http://www.reddit.com/r/whclan/comments/2zu98r/label_here/">21/03/15 21:14 GMT</a> </div>
+        <p><em>Team News</em></p>
+
+        <?php foreach($news['news'] as $post){ ?>
+            <div class="newsitem">
+              <?php echo($post->{'title'});?>
+              <a href="<?php echo($post->{'url'}); ?> ">
+                <small style="float:right;">reddit link</small>
+              </a>
+            </div>
+            <?php print($post->{'selftext'}); ?>
+            </br></br>
+        <?php } ?>
       </div></div>
-      <div class="splitleft"><div class="greybox">
-  	<p><em>Team Calandar</em></p>
-        <div> scrim vs implosion &lt;i&gt;<br>
-        sunday March, 29th @ 8 pm GMT</div>
+
+      <div class="splitleft"><div class="whitebox">
+        <p><em>Team Calendar</em></p>
+
+        <?php foreach($news['calendar'] as $post){ ?>
+            <div class="newsitem">
+              <?php echo($post->{'title'});?>
+            </div>
+            <?php print($post->{'selftext'}); ?>
+            </br></br>
+        <?php } ?>
+
+      </div></div>
       </div></div>
     </div>
   </div>
