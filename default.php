@@ -33,7 +33,7 @@ once and a while; whatever makes more sense to you. <b>If you want to know what'
         </ul>
       </div> </div>
       <div class="splitright"><div class="nobox">
-        <div align="center"> <img style="margin-top: 10px;" src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
+        <div align="center"> <img style="margin-top: 10px; width: 100%;" src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
       </div></div>
     </div>
   </div>
