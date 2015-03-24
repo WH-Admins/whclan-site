@@ -18,12 +18,6 @@ $news = get_news();
       <p> Here we have some news and some team calendar stuff. Good to know. </p>
     </div>
 
-    <style>
-      div.newsitem {
-        padding-left:20 ; font-size:120% ; padding-bottom:10
-      }
-    </style>
-
     <div class="content-box">
       <div class="split"><div class="whitebox">
 
@@ -31,7 +25,7 @@ $news = get_news();
             <div class="newstitle">
               <?php echo($post->{'title'});?>
               <a href="<?php echo($post->{'url'}); ?> ">
-                <p class="newslink">reddit</p>
+                <span class="newslink">reddit</span>
               </a>
             </div>
             <div class="newscontent">
@@ -47,7 +41,7 @@ $news = get_news();
             <div class="newstitle">
               <?php echo($post->{'title'});?>
               <a href="<?php echo($post->{'url'}); ?> ">
-                <p class="newslink">reddit</p>
+                <span class="newslink">reddit</span>
               </a>
             </div>
             <div class="newscontent">
