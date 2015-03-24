@@ -15,7 +15,7 @@ function get_news() {
         if($post->{'link_flair_text'} == "news") {
             array_push($result['news'], $post);
         }
-        else if($post->{'link_flair_text'} == "calender") {
+        else if($post->{'link_flair_text'} == "calendar") {
             array_push($result['calendar'], $post);
         }
     }

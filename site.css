@@ -1,17 +1,25 @@
 .greybox {
-  background:#EEE; padding:20
+  background: #EEEEEE;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #CCC
 }
 
 .whitebox {
-  background:#FFF; padding:20
+  background: #FFF;
+  padding: 10px;
+  margin: 10px;
 }
 
 .brightbox {
-  background:#FFFFFF; padding:20
+  background: #FFFFFF;
+  padding: 20px;
 }
 
 div.splitleft {
-  width:50% ; float:left ; height:100%
+  width: 50%;
+  float: left;
+  height: 100%;
 }
 
 div.splitright {
@@ -23,9 +31,27 @@ p.important {
 }
 
 .headerbox {
-  background:grey ; padding:20 ; padding-top:5
+  background:grey ; padding: 20px ; padding-top:5
 }
 
 .logo {
   color:red ; font-size:120% ; font-family:monospace
+}
+
+.newstitle {
+  font-size: 130%;
+}
+
+.newslink {
+  font-size: 60%;
+  float: right;
+}
+
+.newscontent {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+strike {
+  color: #666;
 }

@@ -23,29 +23,33 @@ $news = get_news();
 
     <div style="margin-top:20">
       <div class="splitleft"><div class="whitebox">
-        <p><em>Team News</em></p>
 
         <?php foreach($news['news'] as $post){ ?>
-            <div class="newsitem">
+            <div class="newstitle">
               <?php echo($post->{'title'});?>
               <a href="<?php echo($post->{'url'}); ?> ">
-                <small style="float:right;">reddit link</small>
+                <p class="newslink">reddit</p>
               </a>
             </div>
-            <?php print($post->{'selftext'}); ?>
-            </br></br>
+            <div class="newscontent">
+              <?php print(html_entity_decode($post->{'selftext_html'})); ?>
+            </div>
         <?php } ?>
+
       </div></div>
 
-      <div class="splitleft"><div class="whitebox">
-        <p><em>Team Calendar</em></p>
+      <div class="splitleft"><div class="whitebox" style="border-left: 1px solid #888;">
 
         <?php foreach($news['calendar'] as $post){ ?>
-            <div class="newsitem">
+            <div class="newstitle">
               <?php echo($post->{'title'});?>
+              <a href="<?php echo($post->{'url'}); ?> ">
+                <p class="newslink">reddit</p>
+              </a>
             </div>
-            <?php print($post->{'selftext'}); ?>
-            </br></br>
+            <div class="newscontent">
+              <?php print(html_entity_decode($post->{'selftext_html'})); ?>
+            </div>
         <?php } ?>
 
       </div></div>
