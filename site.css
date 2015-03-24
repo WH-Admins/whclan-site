@@ -32,7 +32,8 @@ p.important {
 
 .newstitle {
   font-size: 130%;
-  background-color: #EEE
+  background-color: #DDD;
+  padding: 3px;
 }
 
 .newslink {
@@ -45,7 +46,7 @@ p.important {
   padding: 10px;
   margin-bottom: 20px;
   margin-left: 10px;
-  background-color: #AAA
+  border: 1px solid #CCC
 }
 
 div.newsitem {
