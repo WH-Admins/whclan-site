@@ -23,21 +23,22 @@ $news = get_news();
 
     <div style="margin-top:20">
       <div class="splitleft"><div class="whitebox">
-        <p><em>Team News</em></p>
+        <h3>Team News</h3>
 
         <?php foreach($news['news'] as $post){ ?>
-            <div class="newsitem">
+            <div class="newstitle">
               <?php echo($post->{'title'});?>
               <a href="<?php echo($post->{'url'}); ?> ">
-                <small style="float:right;">reddit link</small>
+                <p class="newslink">reddit</p>
               </a>
             </div>
-            <?php print($post->{'selftext'}); ?>
-            </br></br>
+            <div class="newscontent">
+              <?php print($post->{'selftext'}); ?>
+            </div>
         <?php } ?>
       </div></div>
 
-      <div class="splitleft"><div class="whitebox">
+      <div class="splitleft"><div class="whitebox" style="border-left: 1px solid #888;">
         <p><em>Team Calendar</em></p>
 
         <?php foreach($news['calendar'] as $post){ ?>
