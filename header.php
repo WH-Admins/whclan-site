@@ -7,7 +7,7 @@
   $login = new Login();
 ?>
 
-<div class="nav sitehead" style="height: 50px;">
+<div class="nav sitehead" style="min-height: 50px;">
   <div class="container">
     <span class="pagename current">
       Website of the <b>Wreaking Havoc</b> Clan
@@ -33,6 +33,10 @@
       <span class="logo">&lt;8)</span>
       <span id="restricted-link" style="display:inline">
         <a href="restricted.php">Restricted</a></span>
+
+      <span class="logo">&lt;8)</span>
+      <span id="videos-link" style="display:inline">
+        <a href="videos.php">Videos</a></span>
 
       <span class="logo" style="padding-right:20px;"> | </span>
 

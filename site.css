@@ -55,3 +55,19 @@ p.important {
 strike {
   color: #666;
 }
+
+.videothumb {
+  display: inline-block;
+  float: left;
+  padding: 7px;
+  padding-bottom: 3px;
+}
+
+.thumbtext {
+  color: #777;
+  text-align: center;
+}
+
+.thumbgroup {
+  display: table-cell;
+}
