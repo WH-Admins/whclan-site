@@ -25,7 +25,7 @@
         <div class="newsitem"> Our subreddit is now online! <a href="http://www.reddit.com/r/whclan/comments/2zu98r/label_here/">21/03/15 21:14 GMT</a> </div>
       </div></div>
       <div class="splitleft"><div class="greybox">
-  	<em>Team Calander</em>
+  	<em>Team Calandar</em>
         <div> scrim vs implosion &lt;i&gt;<br>
         sunday March, 29th @ 8 pm GMT</div>
       </div></div>
