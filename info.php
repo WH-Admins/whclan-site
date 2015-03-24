@@ -9,7 +9,7 @@
 
   <div class="container">
     <h2>It's nice to know what's going on.</h2>
-    <p> Here we have some news and some team calander stuff. Good to know. </p>
+    <p> Here we have some news and some team calandar stuff. Good to know. </p>
 
     <style>
       div.newsitem {
