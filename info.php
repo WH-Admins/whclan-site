@@ -29,6 +29,9 @@ $news = get_news();
         <?php foreach($news['news'] as $post){ ?>
             <div class="newsitem">
               <?php echo($post->{'title'});?>
+              <a href="<?php echo($post->{'url'}); ?> ">
+                <small style="float:right;">reddit link</small>
+              </a>
             </div>
             <?php print($post->{'selftext'}); ?>
             </br></br>
