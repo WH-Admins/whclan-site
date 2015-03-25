@@ -1,11 +1,28 @@
+.paddedbox {
+  padding: 10px;
+  margin: 10px;
+}
+
 .greybox {
   background: #EEE;
   border: 1px solid #CCC
 }
 
-.paddedbox {
+.headbox {
+  background-color: #EEE ;
+}
+
+.titlebox {
+  font-size: 130%;
+  background-color: #DDD;
+  padding: 3px;
+}
+
+.contentbox {
   padding: 10px;
-  margin: 10px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  border: 1px solid #CCC
 }
 
 div.split {
@@ -22,23 +39,9 @@ p.important {
   color:red ; font-size:120% ; font-family:monospace
 }
 
-.newstitle {
-  font-size: 130%;
-  background-color: #DDD;
-  padding: 3px;
-}
-
 .newslink {
-  font-size: 60%;
+  font-size: 100%;
   float: right;
-  vertical-align: middle;
-}
-
-.newscontent {
-  padding: 10px;
-  margin-bottom: 20px;
-  margin-left: 10px;
-  border: 1px solid #CCC
 }
 
 div.newsitem {

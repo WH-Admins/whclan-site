@@ -16,18 +16,18 @@ $news = get_news();
       <h2>Real-time feed from Reddit</h2>
     </div>
 
-    <div class="contentbox">
+    <div>
       <div class="split"><div class="paddedbox">
         <h3> News </h3>
 
         <?php foreach($news['news'] as $post){ ?>
-            <div class="newstitle">
+            <div class="titlebox">
               <?php echo($post->{'title'});?>
               <a href="<?php echo($post->{'url'}); ?> ">
                 <span class="newslink">reddit</span>
               </a>
             </div>
-            <div class="newscontent">
+            <div class="contentbox">
               <?php print(html_entity_decode($post->{'selftext_html'})); ?>
             </div>
         <?php } ?>
@@ -38,13 +38,13 @@ $news = get_news();
         <h3> Calendar </h3>
 
         <?php foreach($news['calendar'] as $post){ ?>
-            <div class="newstitle">
+            <div class="titlebox">
               <?php echo($post->{'title'});?>
               <a href="<?php echo($post->{'url'}); ?> ">
                 <span class="newslink">reddit</span>
               </a>
             </div>
-            <div class="newscontent">
+            <div class="contentbox">
               <?php print(html_entity_decode($post->{'selftext_html'})); ?>
             </div>
         <?php } ?>
