@@ -1,3 +1,12 @@
+#title {
+  font-size: 26pt;
+}
+
+.sitehead {
+    min-height: 75px;
+    text-align: center;
+}
+
 .paddedbox {
   padding: 10px;
   margin: 10px;
@@ -14,39 +23,33 @@
 }
 
 .headbox {
-  margin-top:0;
+  margin-top:20px;
   padding-top:10px;
-  padding-bottom:10px;
-  height:70px;
-}
-
-#pageheader {
-  margin: 0px;
   text-align:center;
-  background: #CCC;
-  border: 1px solid #BBB
+  background: #222;
+  border: 1px solid #111;
 }
 
-#leftholder {
-  float:left;
-  height:70px;
-  width:120px;
-  display:inline;
-}
-
-#rightholder {
-  float:right;
-  height:70px;
-  width:120px;
-  display:inline;
+#headtext {
+  margin: 0px;
+  color: white;
+  display:inline-block;
+  min-height: 50px;
+  vertical-align: text-center;
 }
 
 .bgloopy {
-  background-image: url("images/head-loop-1.png")
+  background-image: url("images/head-loop-1.png");
+  height:70px;
+  width:120px;
+  margin-top: -20px;
 }
 
 .bgbiplane {
-  background-image: url("images/head-biplane-1.png")
+  background-image: url("images/head-biplane-1.png");
+  height:70px;
+  width:120px;
+  margin-top: -20px;
 }
 
 .titlebox {
