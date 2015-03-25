@@ -11,10 +11,8 @@
     <div class="headbox">
       <div>
         <div id="leftplane" class="bluebg"> </div>
-        <div>
-          <div id="rightplane" class="bluebg"> </div>
-          <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
-        </div>
+        <div id="rightplane" class="bluebg"> </div>
+        <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
       </div>
     </div>
     <div class="paddedbox">
