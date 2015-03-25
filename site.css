@@ -34,7 +34,8 @@
   padding: 10px;
   margin-bottom: 20px;
   margin-left: 20px;
-  border: 1px solid #CCC
+  border: 1px solid #CCC;
+  border-top: 0px;
 }
 
 div.split {
