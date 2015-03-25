@@ -16,7 +16,7 @@
     </div>
 
     <div class="paddedbox nohead">
-      <div class="split"><div class="paddedbox">
+      <div class="split"><div class="paddedbox nohead">
         <div class="titlebox">
           <a href="http://www.reddit.com/r/whclan"><em>Reddit</em></a>
         </div>
@@ -24,7 +24,7 @@
           <p> This is where we talk about stuff over longer periods of time. Want everybody's opinion on the role of acid loopy in TBD? Make a post here. </p>
         </div>
       </div></div>
-      <div class="split"><div class="paddedbox">
+      <div class="split"><div class="paddedbox nohead">
         <div class="titlebox">
           <a href="http://webchat.freenode.net/"><em>IRC</em></a> (Internet Relay Chat)
         </div>

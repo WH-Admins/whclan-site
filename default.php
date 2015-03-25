@@ -21,7 +21,7 @@
       <p class="important"> WH is dedicated to improving ourselves as players and as a competitive team. However, we also intend to play a role as a social agent, bringing progress and positivity to altitude through the organised effort of a playerbase that is passoinate about the game. </p>
     </div>
     <div>
-      <div class="split"><div class="paddedbox">
+      <div class="split"><div class="paddedbox nohead">
         <div class="titlebox">TO-DO list</div>
         <div class="contentbox">
           <p> Lots of things have been happening! Here are some things that have yet to been concluded:
