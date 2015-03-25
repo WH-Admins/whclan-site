@@ -1,3 +1,12 @@
+#title {
+  font-size: 26pt;
+}
+
+.sitehead {
+    min-height: 75px;
+    text-align: center;
+}
+
 .paddedbox {
   padding: 10px;
   margin: 10px;
@@ -14,19 +23,40 @@
 }
 
 .headbox {
-  margin-top:0;
-  padding-top: 30px;
-  padding-left:10px;
-  background-color: #EEE ;
+  margin: 0; padding: 0;
+  margin-top:20px;
+  padding-top:10px;
+  text-align:center;
+  background: #444;
+  border: 1px solid #111;
 }
 
-#pageheader {
-  margin: 0px;
+#headtext {
+  margin: 0; padding: 0;
+  color: white;
+  display:inline-block;
+  min-height: 50px;
+  vertical-align: text-center;
+  font-size: 20pt;
+  margin-bottom: -10px;
+}
+
+#headimg {
+  margin: 0; padding: 0;
+  height:70px;
+  width:120px;
+  margin-top: -30px;
+  margin-bottom: -30px;
+  margin-left:30px;
+  margin-right:30px;
+  display: inline-block;
+  position: static;
 }
 
 .titlebox {
   font-size: 130%;
-  background-color: #DDD;
+  background-color: #CCC;
+  border: 1px solid #BBB;
   padding: 3px;
 }
 
@@ -34,7 +64,7 @@
   padding: 10px;
   margin-bottom: 20px;
   margin-left: 20px;
-  border: 1px solid #CCC;
+  border: 1px solid #BBB;
   border-top: 0px;
 }
 

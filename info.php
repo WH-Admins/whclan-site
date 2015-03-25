@@ -11,10 +11,13 @@ $news = get_news();
   <style> #inf-link { font-weight:bold } </style>
   <?php include "header.php"; ?>
 
+  <div class="headbox">
+    <div id="headimg" style="background-image:url(images/head-loop-left.png"> </div>
+    <h2 id="headtext">Real-time feed from Reddit.</h2>
+    <div id="headimg" style="background-image:url(images/head-randa-right.png"> </div>
+  </div>
+
   <div class="container">
-    <div class="headbox">
-      <h2 id="pageheader">Real-time feed from Reddit</h2>
-    </div>
 
     <div>
       <div class="split"><div class="paddedbox">

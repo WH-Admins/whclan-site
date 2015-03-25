@@ -7,15 +7,18 @@
   <style> #comms-link { font-weight:bold; } </style>
   <?php include "header.php"; ?>
 
-  <div class="container">
     <div class="headbox">
-      <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
+      <div id="headimg" style="background-image:url(images/head-bomber-left.png"> </div>
+      <h2 id="headtext">Want to be heard or hear what others have to say?</h2>
+      <div id="headimg" style="background-image:url(images/head-explodet-right.png"> </div>
     </div>
+
+  <div class="container">
     <div class="paddedbox">
       <p class="important"> You're in the right place; we value communication here. Here are the places we talk to ourselves, and oftentimes each other. </p>
     </div>
 
-    <div class="paddedbox nohead">
+    <div>
       <div class="split"><div class="paddedbox nohead">
         <div class="titlebox">
           <a href="http://www.reddit.com/r/whclan"><em>Reddit</em></a>

@@ -7,9 +7,9 @@
   $login = new Login();
 ?>
 
-<div class="nav sitehead" style="min-height: 50px;">
+<div class="nav sitehead">
   <div class="container">
-    <span class="pagename current">
+    <span class="pagename" id="title" >
       Website of the <b>Wreaking Havoc</b> Clan
     </span>
     </br>
@@ -27,16 +27,16 @@
     <span class="logo">&lt;8)</span>
     <span id="comms-link" style="display:inline">
       <a href="comms.php">Communication</a></span>
+
+    <span class="logo">&lt;8)</span>
+    <span id="videos-link" style="display:inline">
+      <a href="videos.php">Videos</a></span>
 <?php
     if (isset($_SESSION['user_name'])) {
 ?>
       <span class="logo">&lt;8)</span>
       <span id="restricted-link" style="display:inline">
         <a href="restricted.php">Restricted</a></span>
-
-      <span class="logo">&lt;8)</span>
-      <span id="videos-link" style="display:inline">
-        <a href="videos.php">Videos</a></span>
 
       <span class="logo" style="padding-right:20px;"> | </span>
 
