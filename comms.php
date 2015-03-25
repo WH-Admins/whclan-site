@@ -9,7 +9,6 @@
 
   <div class="container">
     <div class="headbox">
-      <div class="thinheadbox greybox"> </div>
       <div>
         <div id="leftholder" class="bgloopy"> </div>
         <div id="rightholder" class="bgbiplane"> </div>
