@@ -9,9 +9,9 @@
 
   <?php include "header.php"; ?>
     <div class="headbox">
-      <div id="headimg" style="background-image:url(images/head-bomber-left.png"> </div>
+      <div id="headimg" style="background-image:url(images/head-explodet-left.png"> </div>
       <h2 id="headtext">Videos of our recent games!</h2>
-      <div id="headimg" style="background-image:url(images/head-explodet-right.png"> </div>
+      <div id="headimg" style="background-image:url(images/head-biplane-right.png"> </div>
     </div>
 
   <div class="container">
