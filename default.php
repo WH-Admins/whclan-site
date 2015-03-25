@@ -17,7 +17,7 @@
       This site is the central element of the ongoing initiative to centralise and organise the WH clan; our goal is to make clan-wide communication easy, catalise internal discussion in realtime and on Reddit, and finally to bring a more professional feel. These three goals can be summerized in the following three values:
       <h3> communication, information, and organisation. </h3>
     </div>
-    <div class="paddedbox">
+    <div class="paddedbox nohead">
       <p class="important"> WH is dedicated to improving ourselves as players and as a competitive team. However, we also intend to play a role as a social agent, bringing progress and positivity to altitude through the organised effort of a playerbase that is passoinate about the game. </p>
     </div>
     <div>

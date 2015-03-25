@@ -15,7 +15,7 @@
       <p class="important"> You're in the right place; we value communication here. Here are the places we talk to ourselves, and oftentimes each other. </p>
     </div>
 
-    <div class="paddedbox">
+    <div class="paddedbox nohead">
       <div class="split"><div class="paddedbox">
         <div class="titlebox">
           <a href="http://www.reddit.com/r/whclan"><em>Reddit</em></a>
