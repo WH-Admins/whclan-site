@@ -6,9 +6,15 @@
 </head>
 <body>
   <style> #videos-link { font-weight:bold; } </style>
+
   <?php include "header.php"; ?>
+    <div class="headbox">
+      <div id="headimg" style="background-image:url(images/head-bomber-left.png"> </div>
+      <h2 id="headtext">Videos of our recent games</h2>
+      <div id="headimg" style="background-image:url(images/head-explodet-right.png"> </div>
+    </div>
+
   <div class="container">
-    <h2>Videos</h2>
 
 <h3> March 24th, Scrim vs Implosion </h3>
 <div class="thumbgroup">
