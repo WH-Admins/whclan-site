@@ -9,8 +9,8 @@
 
   <div class="container">
     <div class="headbox">
-      <div id="leftholder"> <img url="images/head-loop-left.png"/> </div>
-      <div id="rightholder"> <img url="images/head-explodet-right.png"/></div>
+      <div id="leftholder" style="background-image:url(images/head-loop-left.png"> </div>
+      <div id="rightholder" style="background-image:url(images/head-randa-right.png"> </div>
       <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
     </div>
     <div class="paddedbox">
