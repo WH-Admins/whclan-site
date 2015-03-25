@@ -26,6 +26,8 @@
   padding-bottom:10px;
   height:50px;
   position:absolute;
+  width:100%;
+  z-index:-1;
 }
 
 #pageheader {
