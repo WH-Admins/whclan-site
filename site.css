@@ -24,10 +24,6 @@
   text-align:center;
 }
 
-div.bluebg {
-  background-color:blue;
-}
-
 #leftholder {
   float:left;
   height:70px;
@@ -40,6 +36,14 @@ div.bluebg {
   height:70px;
   width:120px;
   display:inline;
+}
+
+.bgloopy {
+  background-image: url("/images/head-loop-1.png")
+}
+
+.bgbiplane {
+  background-image: url("/images/head-biplane-1.png")
 }
 
 .titlebox {

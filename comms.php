@@ -10,8 +10,8 @@
   <div class="container">
     <div class="headbox">
       <div>
-        <div id="leftholder"> </div>
-        <div id="rightholder" class="bluebg"> </div>
+        <div id="leftholder" class="bgloopy"> </div>
+        <div id="rightholder" class="bgbiplane"> </div>
         <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
       </div>
     </div>
