@@ -10,8 +10,12 @@
 
 .headbox {
   margin-top:0;
-  padding-top: 20px;
+  padding-top: 15px;
   background-color: #EEE ;
+}
+
+h1.headbox {
+  margin: 0px;
 }
 
 .titlebox {
