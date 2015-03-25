@@ -10,14 +10,6 @@
   <div class="container">
     <h2>Videos</h2>
 
-<?php
-    if ($login->isUserLoggedIn() == false) {
-?>
-      <p style="color: #F66;"> Only members can view this page, click <a href='login.php'>here</a> to login.</p>
-<?php
-    } else {
-?>
-
 <h3> March 24th, Scrim vs Implosion </h3>
 <div class="thumbgroup">
 <div class="videothumb"><a href="https://youtu.be/Jt15OAAyywE">
@@ -73,10 +65,6 @@
 </div>
 </div>
 
-<?php
-    }
-?>
-
-  </div>
+</div>
 </body>
 </html>
