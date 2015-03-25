@@ -27,12 +27,16 @@
           <p> Lots of things have been happening! Here are some things that have yet to been concluded:
           <p><em>for developers</em></p>
           <ul>
-            <li>Investigate the addition of some sort of mailing list.</li>
+            <li> Investigate the addition of some sort of mailing list. </li>
+            <li> Integrate improved and beautified roster on website. </li>
+            <li> Add styling suggestive of altitude to the site (like was done in the subreddit) </li>
+            <li> Add a page for scrim history. </li>
           </ul>
           <p><em>for clan members</em></p>
           <ul>
-            <li>Populate our <a href="http://www.reddit.com/r/whclan">subreddit</a>(make a post in the Roll Call)</li>
-            <li>Populate our IRC channel </li>
+            <li> Populate our <a href="http://www.reddit.com/r/whclan">subreddit</a>(make a post in the Roll Call)</li>
+            <li> Populate our IRC channel </li>
+            <li> Request accounts for the website member auth system from one of the site admins: MagneticDuck, Label or LewisH </li>
           </ul>
         </div> <!-- content box ends -->
       </div> </div>
