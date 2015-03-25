@@ -13,7 +13,7 @@ $news = get_news();
 
   <div class="container">
     <div class="headbox">
-      <h2>Real-time feed from Reddit</h2>
+      <h2 id="pageheader">Real-time feed from Reddit</h2>
     </div>
 
     <div>

@@ -10,11 +10,11 @@
 
 .headbox {
   margin-top:0;
-  padding-top: 15px;
+  padding-top: 50px;
   background-color: #EEE ;
 }
 
-h1.headbox {
+#pageheader {
   margin: 0px;
 }
 
