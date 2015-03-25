@@ -23,6 +23,7 @@
 }
 
 .headbox {
+  margin: 0; padding: 0;
   margin-top:20px;
   padding-top:10px;
   text-align:center;
@@ -31,8 +32,7 @@
 }
 
 #headtext {
-  margin: 0px;
-  padding: 0px;
+  margin: 0; padding: 0;
   color: white;
   display:inline-block;
   min-height: 50px;
@@ -42,6 +42,7 @@
 }
 
 #headimg {
+  margin: 0; padding: 0;
   height:70px;
   width:120px;
   margin-top: -50px;
