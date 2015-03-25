@@ -15,13 +15,13 @@
 
 .headbox {
   margin-top:0;
-  padding-top: 30px;
-  padding-left:10px;
+  height:70px;
   background-color: #CCC ;
 }
 
 #pageheader {
   margin: 0px;
+  text-align:center;
 }
 
 .titlebox {
