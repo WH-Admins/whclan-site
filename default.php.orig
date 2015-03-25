@@ -21,6 +21,20 @@
       <p class="important nohead"> WH is dedicated to improving ourselves as players and as a competitive team. However, we also intend to play a role as a social agent, bringing progress and positivity to altitude through the organised effort of a playerbase that is passoinate about the game. </p>
     </div>
     <div>
+<<<<<<< HEAD
+      <div class="splitleft"><div class="greybox">
+        <p><h3>TO-DO list</h3></p>
+        <p> Lots of things have been happening! Here are some things that have yet to been concluded:
+        <p><em>for developers</em></p>
+        <ul>
+          <li>Investigate the addition of some sort of mailing list.</li>
+        </ul>
+        <p><em>for clan members</em></p>
+        <ul>
+          <li>Populate our <a href="http://www.reddit.com/r/whclan">subreddit</a>(make a post in the Roll Call)</li>
+          <li>Populate our IRC channel </li>
+        </ul>
+=======
       <div class="split"><div class="paddedbox nohead">
         <div class="titlebox">TO-DO list</div>
         <div class="contentbox">
