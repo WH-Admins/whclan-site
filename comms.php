@@ -15,9 +15,10 @@
         }
       </style>
       <div>
-        <div class="placeholder"> </div>
+        <div class="placeholder" style="float:left"> </div>
         <div>
           <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
+          <div class="placeholder" style="float:right"> </div>
         </div>
       </div>
     </div>
