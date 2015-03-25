@@ -14,7 +14,7 @@
       <div id="headimg" style="background-image:url(images/head-biplane-right.png"> </div>
     </div>
 
-  <div class="container">
+  <div class="container headmargin">
 
 <h3> March 24th, Scrim vs Implosion </h3>
 <div class="thumbgroup">

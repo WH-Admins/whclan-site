@@ -17,7 +17,7 @@ $news = get_news();
     <div id="headimg" style="background-image:url(images/head-randa-right.png"> </div>
   </div>
 
-  <div class="container">
+  <div class="container headmargin">
 
     <div>
       <div class="split"><div class="paddedbox">

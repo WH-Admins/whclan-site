@@ -13,7 +13,7 @@
       <div id="headimg" style="background-image:url(images/head-explodet-right.png"> </div>
     </div>
 
-  <div class="container">
+  <div class="container headmargin">
     <div class="paddedbox">
       <p class="important"> You're in the right place; we value communication here. Here are the places we talk to ourselves, and oftentimes each other. </p>
     </div>
