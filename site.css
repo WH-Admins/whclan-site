@@ -1,55 +1,63 @@
-.greybox {
-  background: #EEEEEE;
+.paddedbox {
   padding: 10px;
   margin: 10px;
+}
+
+.nohead {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.greybox {
+  background: #EEE;
   border: 1px solid #CCC
 }
 
-.whitebox {
-  background: #FFF;
+.headbox {
+  margin-top:0;
+  padding-top: 30px;
+  padding-left:10px;
+  background-color: #EEE ;
+}
+
+#pageheader {
+  margin: 0px;
+}
+
+.titlebox {
+  font-size: 130%;
+  background-color: #DDD;
+  padding: 3px;
+}
+
+.contentbox {
   padding: 10px;
-  margin: 10px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  border: 1px solid #CCC
 }
 
-.brightbox {
-  background: #FFFFFF;
-  padding: 20px;
-}
-
-div.splitleft {
+div.split {
   width: 50%;
   float: left;
   height: 100%;
-}
-
-div.splitright {
-  margin-left:50% ; height:100%
 }
 
 p.important {
   color:grey ; font-size:110%
 }
 
-.headerbox {
-  background:grey ; padding: 20px ; padding-top:5
-}
-
 .logo {
   color:red ; font-size:120% ; font-family:monospace
 }
 
-.newstitle {
-  font-size: 130%;
-}
-
 .newslink {
-  font-size: 60%;
+  font-size: 100%;
   float: right;
 }
 
-.newscontent {
-  padding: 10px;
-  margin-bottom: 20px;
+div.newsitem {
+  padding-left:20 ; font-size:120% ; padding-bottom:10
 }
 
 strike {

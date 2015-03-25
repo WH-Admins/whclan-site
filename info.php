@@ -2,7 +2,6 @@
 require_once('classes/redditNews.php');
 $news = get_news();
 ?>
-
 <html>
 <head>
   <?php include "imports.php"; ?>
@@ -13,48 +12,46 @@ $news = get_news();
   <?php include "header.php"; ?>
 
   <div class="container">
-    <h2>It's nice to know what's going on.</h2>
-    <p> Here we have some news and some team calendar stuff. Good to know. </p>
-    <style>
-      div.newsitem {
-        padding-left:20 ; font-size:120% ; padding-bottom:10
-      }
-    </style>
+    <div class="headbox">
+      <h2 id="pageheader">Real-time feed from Reddit</h2>
+    </div>
 
-    <div style="margin-top:20">
-      <div class="splitleft"><div class="whitebox">
+    <div>
+      <div class="split"><div class="paddedbox">
+        <h3> News </h3>
 
         <?php foreach($news['news'] as $post){ ?>
-            <div class="newstitle">
+            <div class="titlebox">
               <?php echo($post->{'title'});?>
               <a href="<?php echo($post->{'url'}); ?> ">
-                <p class="newslink">reddit</p>
+                <span class="newslink">reddit</span>
               </a>
             </div>
-            <div class="newscontent">
+            <div class="contentbox">
               <?php print(html_entity_decode($post->{'selftext_html'})); ?>
             </div>
         <?php } ?>
 
       </div></div>
 
-      <div class="splitleft"><div class="whitebox" style="border-left: 1px solid #888;">
+      <div class="split"><div class="paddedbox">
+        <h3> Calendar </h3>
 
         <?php foreach($news['calendar'] as $post){ ?>
-            <div class="newstitle">
+            <div class="titlebox">
               <?php echo($post->{'title'});?>
               <a href="<?php echo($post->{'url'}); ?> ">
-                <p class="newslink">reddit</p>
+                <span class="newslink">reddit</span>
               </a>
             </div>
-            <div class="newscontent">
+            <div class="contentbox">
               <?php print(html_entity_decode($post->{'selftext_html'})); ?>
             </div>
         <?php } ?>
 
       </div></div>
-      </div></div>
-    </div>
-  </div>
+    </div> <!-- end of content-box -->
+
+  </div> <!-- end of container -->
 </body>
 </html>
