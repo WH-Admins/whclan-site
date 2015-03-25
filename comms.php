@@ -17,8 +17,8 @@
       <div>
         <div class="placeholder" style="float:left"> </div>
         <div>
-          <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
           <div class="placeholder" style="float:right"> </div>
+          <h2 id="pageheader" style="float:left">Want to be heard or hear what others have to say?</h2>
         </div>
       </div>
     </div>
