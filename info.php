@@ -13,7 +13,7 @@ $news = get_news();
 
   <div class="headbox">
     <div id="headimg" style="background-image:url(images/head-loop-left.png"> </div>
-    <h2 id="headtext">Real-time feed from Reddit</h2>
+    <h2 id="headtext">Real-time feed from Reddit.</h2>
     <div id="headimg" style="background-image:url(images/head-randa-right.png"> </div>
   </div>
 

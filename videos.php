@@ -10,7 +10,7 @@
   <?php include "header.php"; ?>
     <div class="headbox">
       <div id="headimg" style="background-image:url(images/head-bomber-left.png"> </div>
-      <h2 id="headtext">Videos of our recent games</h2>
+      <h2 id="headtext">Videos of our recent games!</h2>
       <div id="headimg" style="background-image:url(images/head-explodet-right.png"> </div>
     </div>
 
