@@ -15,11 +15,10 @@
         }
       </style>
       <div>
-        <div class="placeholder" style="float:left"> </div>
-        <div style="display:block">
-          <h2 id="pageheader" style="width:100%">Want to be heard or hear what others have to say?</h2>
+        <div class="placeholder" style="overflow:auto"> </div>
+        <div style="float:right">
+          <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
         </div>
-        <div class="placeholder" style="float:right"> </div>
       </div>
     </div>
     <div class="paddedbox">
