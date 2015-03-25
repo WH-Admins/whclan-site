@@ -41,14 +41,6 @@
   display:inline;
 }
 
-.bgloopy {
-  background-image: url("images/head-loop-1.png")
-}
-
-.bgbiplane {
-  background-image: url("images/head-biplane-1.png")
-}
-
 .titlebox {
   font-size: 130%;
   background-color: #CCC;
