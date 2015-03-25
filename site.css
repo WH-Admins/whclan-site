@@ -39,11 +39,11 @@
 }
 
 .bgloopy {
-  background-image: url("/images/head-loop-1.png")
+  background-image: url("images/head-loop-1.png")
 }
 
 .bgbiplane {
-  background-image: url("/images/head-biplane-1.png")
+  background-image: url("images/head-biplane-1.png")
 }
 
 .titlebox {
