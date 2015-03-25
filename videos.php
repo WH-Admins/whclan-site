@@ -15,6 +15,7 @@
     </div>
 
   <div class="container headmargin">
+  <div class="paddedbox">
 
 <h3> March 24th, Scrim vs Implosion </h3>
 <div class="thumbgroup">
@@ -69,6 +70,8 @@
 <img src="http://placehold.it/244x138">
 <div class="thumbtext"> &lt8) vs &lti&gt </div>
 </div>
+</div>
+
 </div>
 
 </div>
