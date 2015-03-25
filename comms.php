@@ -8,8 +8,8 @@
   <?php include "header.php"; ?>
 
   <div class="container">
-    <div class="thinheadbox greybox"> </div>
     <div class="headbox">
+      <div class="thinheadbox greybox"> </div>
       <div>
         <div id="leftholder" class="bgloopy"> </div>
         <div id="rightholder" class="bgbiplane"> </div>
