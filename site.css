@@ -22,6 +22,25 @@
 #pageheader {
   margin: 0px;
   text-align:center;
+  float:left;
+}
+
+div.bluebg {
+  background-color:blue;
+}
+
+#leftplane {
+  float:left;
+  height:70px;
+  width:120px;
+  display:inline;
+}
+
+#rightplane {
+  float:right;
+  height:70px;
+  width:120px;
+  display:inline;
 }
 
 .titlebox {
