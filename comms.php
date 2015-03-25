@@ -15,8 +15,8 @@
         }
       </style>
       <div>
-        <div class="placeholder" style="overflow:auto"> </div>
-        <div style="float:right">
+        <div class="placeholder"> </div>
+        <div>
           <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
         </div>
       </div>
