@@ -39,7 +39,7 @@
         </div> <!-- content box ends -->
       </div> </div>
       <div class="split"><div class="nobox">
-        <div align="center"> <img style="margin-top: 10px; width: 100%;" src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
+        <div align="center"> <img style="width: 100%;" src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
       </div></div>
     </div>
   </div>
