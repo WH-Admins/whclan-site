@@ -8,7 +8,9 @@
   <?php include "header.php"; ?>
 
     <div class="headbox">
+      <div id="headimg" style="background-image:url(images/head-randa-left.png)"> </div>
       <h2 id="headtext">This is the central hub for all of WH's action.</h2>
+      <div id="headimg" style="background-image:url(images/head-loopy-right.png)"> </div>
     </div>
   <div class="container">
     <div class="paddedbox">
