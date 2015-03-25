@@ -23,8 +23,8 @@
 #pageheader {
   margin: 0px;
   text-align:center;
-  background: #EEE;
-  border: 1px solid #CCC
+  background: #CCC;
+  border: 1px solid #BBB
 }
 
 #leftholder {
@@ -52,7 +52,7 @@
 .titlebox {
   font-size: 130%;
   background-color: #CCC;
-  border: 1px solid #EEE;
+  border: 1px solid #BBB;
   padding: 3px;
 }
 
@@ -60,7 +60,7 @@
   padding: 10px;
   margin-bottom: 20px;
   margin-left: 20px;
-  border: 1px solid #EEE;
+  border: 1px solid #BBB;
   border-top: 0px;
 }
 
