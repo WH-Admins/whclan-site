@@ -29,7 +29,7 @@
           <ul>
             <li> Investigate the addition of some sort of mailing list. </li>
             <li> Integrate improved and beautified roster on website. </li>
-            <li> Add styling suggestive of altitude to the site (like was done in the subreddit) </li>
+            <li> Add styling suggestive of altitude to the site (like was done in the subreddit) (MagneticDuck assigned, working) </li>
             <li> Add a page for scrim history. </li>
           </ul>
           <p><em>for clan members</em></p>
