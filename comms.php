@@ -16,7 +16,10 @@
       </style>
       <div>
         <div class="placeholder" style="float:left"> </div>
-        <h2 id="pageheader" style="display:block;float:left;">Want to be heard or hear what others have to say?</h2>
+        <div>
+          <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
+        </div>
+        <div class="placeholder" style="float:right"> </div>
       </div>
     </div>
     <div class="paddedbox">
