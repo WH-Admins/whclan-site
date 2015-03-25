@@ -16,11 +16,11 @@
     <div class="paddedbox">
       <p> WH members, put this site on your favourites, make it your homepage, print it out and tape it to your forehead, or just refresh it every
   once and a while; whatever makes more sense to you. <b>If you want to know what's going on</b>, you should be able to find the answer here. </p>
-      This site is the central element of the ongoing initiative to centralise and organise the WH clan; our goal is to make clan-wide communication easy, catalise internal discussion in realtime and on Reddit, and finally to bring a more professional feel. These three goals can be summerized in the following three values:
+      This site is the central element of the ongoing initiative to centralise and organise the WH clan; our goal is to make clan-wide communication easy, catalyze internal discussion in realtime and on Reddit, and finally to bring a more professional feel to the team as an organisation. These three goals can be summarized in the following three values:
       <h3> communication, information, and organisation. </h3>
     </div>
     <div class="paddedbox nohead">
-      <p class="important nohead"> WH is dedicated to improving ourselves as players and as a competitive team. However, we also intend to play a role as a social agent, bringing progress and positivity to altitude through the organised effort of a playerbase that is passoinate about the game. </p>
+      <p class="important nohead"> WH is dedicated to improving ourselves as players and as a competitive team. However, we also intend to play a role as a social agent, bringing progress and positivity to altitude through the organised effort of a player-base that is passoinate about the game. </p>
     </div>
     <div>
       <div class="split"><div class="paddedbox nohead">
