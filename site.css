@@ -23,10 +23,11 @@
 }
 
 .headbox {
+  left: calc calc(-500000px + 50vw);
   margin: 0; padding: 0;
   position: absolute;
   white-space: nowrap;
-  width:  width: 1000000px;
+  width:  1000000px;
   margin-top:20px;
   padding-top:10px;
   text-align:center;
