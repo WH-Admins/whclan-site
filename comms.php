@@ -10,7 +10,7 @@
     <div class="headbox">
       <div id="headimg" style="background-image:url(images/head-bomber-left.png"> </div>
       <h2 id="headtext">Want to be heard or hear what others have to say?</h2>
-      <div id="headimg" style="background-image:url(images/head-exploded-right.png"> </div>
+      <div id="headimg" style="background-image:url(images/head-explodet-right.png"> </div>
     </div>
 
   <div class="container">
