@@ -2,7 +2,6 @@
 require_once('classes/redditNews.php');
 $news = get_news();
 ?>
-
 <html>
 <head>
   <?php include "imports.php"; ?>
@@ -13,13 +12,13 @@ $news = get_news();
   <?php include "header.php"; ?>
 
   <div class="container">
-    <div class="head-box">
-      <h2>It's nice to know what's going on.</h2>
-      <p> Here we have some news and some team calendar stuff. Good to know. </p>
+    <div class="headbox">
+      <h2>Real-time feed from Reddit</h2>
     </div>
 
-    <div class="content-box">
-      <div class="split"><div class="whitebox">
+    <div class="contentbox">
+      <div class="split"><div class="paddedbox">
+        <h3> News </h3>
 
         <?php foreach($news['news'] as $post){ ?>
             <div class="newstitle">
@@ -35,7 +34,8 @@ $news = get_news();
 
       </div></div>
 
-      <div class="split"><div class="whitebox">
+      <div class="split"><div class="paddedbox">
+        <h3> Calendar </h3>
 
         <?php foreach($news['calendar'] as $post){ ?>
             <div class="newstitle">

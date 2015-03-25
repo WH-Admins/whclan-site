@@ -1,19 +1,11 @@
 .greybox {
-  background: #EEEEEE;
-  padding: 10px;
-  margin: 10px;
+  background: #EEE;
   border: 1px solid #CCC
 }
 
-.whitebox {
-  background: #FFF;
+.paddedbox {
   padding: 10px;
   margin: 10px;
-}
-
-.brightbox {
-  background: #FFF;
-  padding: 20px;
 }
 
 div.split {
