@@ -9,11 +9,9 @@
 
   <div class="container">
     <div class="headbox">
-      <div>
-        <div id="leftholder" class="bgloopy"> </div>
-        <div id="rightholder" class="bgbiplane"> </div>
-        <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
-      </div>
+      <div id="leftholder" class="bgloopy"> </div>
+      <div id="rightholder" class="bgbiplane"> </div>
+      <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
     </div>
     <div class="paddedbox">
       <p class="important"> You're in the right place; we value communication here. Here are the places we talk to ourselves, and oftentimes each other. </p>
