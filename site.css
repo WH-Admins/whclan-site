@@ -3,6 +3,11 @@
   margin: 10px;
 }
 
+.nohead {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
 .greybox {
   background: #EEE;
   border: 1px solid #CCC
