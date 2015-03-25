@@ -18,7 +18,7 @@
       <h3> communication, information, and organisation. </h3>
     </div>
     <div class="paddedbox nohead">
-      <p class="important"> WH is dedicated to improving ourselves as players and as a competitive team. However, we also intend to play a role as a social agent, bringing progress and positivity to altitude through the organised effort of a playerbase that is passoinate about the game. </p>
+      <p class="important nohead"> WH is dedicated to improving ourselves as players and as a competitive team. However, we also intend to play a role as a social agent, bringing progress and positivity to altitude through the organised effort of a playerbase that is passoinate about the game. </p>
     </div>
     <div>
       <div class="split"><div class="paddedbox nohead">
