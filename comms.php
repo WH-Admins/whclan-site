@@ -9,9 +9,15 @@
 
   <div class="container">
     <div class="headbox">
-      <div style="height:70px;width:120px;background-color:blue;display:inline;float:left;"></div>
-      <h2 id="pageheader">Want to be heard or hear what others have to say?</h2>
-      <div style="height:70px;width:120px;background-color:blue;display:inline;float:right"></div>
+      <style>
+        .placeholder {
+          height:70px; width:120px; background-color:blue; display:inline;
+        }
+      </style>
+      <div>
+        <div class="placeholder" style="float:left"> </div>
+        <h2 id="pageheader" style="display:block;float:left;">Want to be heard or hear what others have to say?</h2>
+      </div>
     </div>
     <div class="paddedbox">
       <p class="important"> You're in the right place; we value communication here. Here are the places we talk to ourselves, and oftentimes each other. </p>
