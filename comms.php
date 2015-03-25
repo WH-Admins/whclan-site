@@ -8,6 +8,7 @@
   <?php include "header.php"; ?>
 
   <div class="container">
+    <div class="thinheadbox greybox"> </div>
     <div class="headbox">
       <div>
         <div id="leftholder" class="bgloopy"> </div>
