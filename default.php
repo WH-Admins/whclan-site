@@ -6,7 +6,6 @@
 <body>
   <style> #org-link { font-weight:bold } </style>
   <?php include "header.php"; ?>
-
     <div class="headbox">
       <div id="headimg" style="background-image:url(images/head-randa-left.png)"> </div>
       <h2 id="headtext">This is the central hub for all of WH's action.</h2>
@@ -15,7 +14,7 @@
   <div class="container headmargin">
     <div class="paddedbox">
       <p> WH members, put this site on your favourites, make it your homepage, print it out and tape it to your forehead, or just refresh it every
-  once and a while; whatever makes more sense to you. <b>If you want to know what's going on</b>, you should be able to find the answer here. </p>
+        once and a while; whatever makes more sense to you. <b>If you want to know what's going on</b>, you should be able to find the answer here. </p>
       This site is the central element of the ongoing initiative to centralise and organise the WH clan; our goal is to make clan-wide communication easy, catalyze internal discussion in realtime and on Reddit, and finally to bring a more professional feel to the team as an organisation. These three goals can be summarized in the following three values:
       <h3> communication, information, and organisation. </h3>
     </div>
@@ -31,7 +30,6 @@
           <ul>
             <li> Investigate the addition of some sort of mailing list. </li>
             <li> Integrate improved and beautified roster on website. </li>
-            <li> <strike> Add styling suggestive of altitude to the site (like was done in the subreddit) (MagneticDuck assigned, working) </strike> completing, signed MagneticDuck and LewisH</li>
             <li> Add a page for scrim history. </li>
           </ul>
           <p><em>for clan members</em></p>
