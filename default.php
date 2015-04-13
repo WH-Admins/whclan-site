@@ -19,24 +19,23 @@
       <h3> communication, information, and organisation. </h3>
     </div>
     <div class="paddedbox nohead">
-      <p class="important nohead"> WH is dedicated to improving ourselves as players and as a competitive team. However, we also intend to play a role as a social agent, bringing progress and positivity to altitude through the organised effort of a player-base that is passoinate about the game. </p>
+      <p class="important nohead"> WH is dedicated to improving ourselves as players and as a competitive team. However, we also intend to play a role as a social agent, bringing progress and positivity to altitude through the organised effort of a player-base that is passionate about the game. </p>
     </div>
     <div>
       <div class="split"><div class="paddedbox nohead">
-        <div class="titlebox">TO-DO list</div>
+        <div class="titlebox">Our Agenda</div>
         <div class="contentbox">
-          <p> Lots of things have been happening! Here are some things that have yet to been concluded:
-          <p><em>for developers</em></p>
+          <p> For developers </p>
           <ul>
-            <li> Investigate the addition of some sort of mailing list. </li>
-            <li> Integrate improved and beautified roster on website. </li>
-            <li> Add a page for scrim history. </li>
+            <li> Add biography listing for our clan members in the communication page</li>
+            <li> Add a system to aid organisation of spontaneous practices from the IRC channel </li>
           </ul>
-          <p><em>for clan members</em></p>
+          <p> For the clan </p>
           <ul>
-            <li> Populate our <a href="http://www.reddit.com/r/whclan">subreddit</a>(make a post in the Roll Call)</li>
-            <li> Populate our IRC channel </li>
-            <li> Request accounts for the website member auth system from one of the site admins: MagneticDuck, Label or LewisH </li>
+            <li> Now that the vast majority of our active members use reddit and IRC, organise some more team practices and start having more conversations on IRC </li>
+            <li> Finalize migration from the google group to reddit. </li>
+            <li> Welcome the members of the 'young' clan into our social circles! They want to learn altitude. Let's help them out. </li>
+            <li> Put on a good show in APL. </li>
           </ul>
         </div> <!-- content box ends -->
       </div> </div>
