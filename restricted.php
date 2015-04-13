@@ -8,9 +8,9 @@
   <style> #restricted-link { font-weight:bold; } </style>
   <?php include "header.php"; ?>
     <div class="headbox">
-      <div class="headimg" style="background-image:url(images/head-explodet-left.png)"> </div>
+      <div id="headimg" style="background-image:url(images/head-explodet-left.png)"> </div>
       <h2 id="headtext"> Restricted member-only resources. </h2>
-      <div class="headimg" style="background-image:url(images/head-randa-right.png)"> </div>
+      <div id="headimg" style="background-image:url(images/head-randa-right.png)"> </div>
     </div>
   <div class="container headmargin">
     <div class="paddedbox"> 
