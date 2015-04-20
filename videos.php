@@ -45,6 +45,7 @@
 <img src="thumbs/190415_eu_qq_core.png"></a>
 <div class="thumbtext"> &lt8) EU vs qq - <b>Core</b> </div>
 </div>
+</div>
 
 <h3> March 24th, Scrim vs Implosion </h3>
 <div class="thumbgroup">
