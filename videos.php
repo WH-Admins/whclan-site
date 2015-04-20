@@ -66,41 +66,6 @@
 </div>
 </div>
 
-</br>
-<h3> March 24th, Placeholders </h3>
-</br>
-
-<div class="thumbgroup">
-<div class="videothumb">
-<img src="http://placehold.it/244x138">
-<div class="thumbtext"> &lt8) vs &lti&gt </div>
-</div>
-<div class="videothumb">
-<img src="http://placehold.it/244x138">
-<div class="thumbtext"> &lt8) vs &lti&gt </div>
-</div>
-<div class="videothumb">
-<img src="http://placehold.it/244x138">
-<div class="thumbtext"> &lt8) vs &lti&gt </div>
-</div>
-<div class="videothumb">
-<img src="http://placehold.it/244x138">
-<div class="thumbtext"> &lt8) vs &lti&gt </div>
-</div>
-<div class="videothumb">
-<img src="http://placehold.it/244x138">
-<div class="thumbtext"> &lt8) vs &lti&gt </div>
-</div>
-<div class="videothumb">
-<img src="http://placehold.it/244x138">
-<div class="thumbtext"> &lt8) vs &lti&gt </div>
-</div>
-<div class="videothumb">
-<img src="http://placehold.it/244x138">
-<div class="thumbtext"> &lt8) vs &lti&gt </div>
-</div>
-</div>
-
 </div>
 
 </div>
