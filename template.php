@@ -12,22 +12,22 @@
   </div>
   <div id="contentarea">
     <div class="stackbox">
-      <div class="split">
+      <div class="split"> <div class="paddedbox">
         <div class="titlebox"> .titlebox </div>
         <div class="contentbox">
           <p> .contentbox </p>
           <p> .contentbox </p>
           <p> .contentbox </p>
-        </div>
+        </div> </div>
       </div>
-      <div class="split">
+      <div class="split"> <div class="paddedbox">
         <div class="titlebox"> .titlebox </div>
         <div class="contentbox">
           <p> .contentbox </p>
           <p> .contentbox </p>
           <p> .contentbox </p>
           <p> .contentbox </p>
-        </div>
+        </div> </div>
       </div>
     </div>
     <div class="stackbox">

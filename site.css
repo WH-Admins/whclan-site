@@ -84,7 +84,7 @@ div.stackbox {
 div.split {
   width: 50%;
   float: left;
-  height: 100%;
+  height: auto;
 }
 
 .titlebox {
