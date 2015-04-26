@@ -27,7 +27,7 @@
 ?>
 
     <div class="stackbox">
-      <p class="important"> Some things are best kep secret. </p>
+      <p class="important"> Some things are best kept secret. </p>
     </div>
 
     <div class="stackbox">
