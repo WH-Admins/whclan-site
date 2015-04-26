@@ -8,14 +8,18 @@
   <style> #videos-link { font-weight:bold; } </style>
 
   <?php include "includes/header.php"; ?>
-  <div class="headbox">
-    <div id="headimg" style="background-image:url(images/head-explodet-left.png"> </div>
-    <h2 id="headtext">Videos of our recent games!</h2>
-    <div id="headimg" style="background-image:url(images/head-biplane-right.png"> </div>
+  <div id="sitebanner">
+    <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
+    <h1 id="bannertext"> Videos of our recent games! </h1>
+    <div class="bannerimg" style="background-image:url(images/head-bomber-right.png)"> </div>
   </div>
 
-  <div class="container headmargin">
-  <div class="paddedbox">
+  <div id="contentarea">
+    <div class="stackbox">
+      <p class="important"> If you don't learn from the past you'll probably just screw it up again in the future. </p>
+    </div>
+   
+    <div class="stackbox">
 
 <h3> April 19th, APL Week 1 </h3>
 <div class="thumbgroup">
