@@ -2,12 +2,12 @@
 <html>
 <head>
   <title>WH Videos</title>
-  <?php include "imports.php"; ?>
+  <?php include "includes/imports.php"; ?>
 </head>
 <body>
   <style> #videos-link { font-weight:bold; } </style>
 
-  <?php include "header.php"; ?>
+  <?php include "includes/header.php"; ?>
   <div class="headbox">
     <div id="headimg" style="background-image:url(images/head-explodet-left.png"> </div>
     <h2 id="headtext">Videos of our recent games!</h2>
