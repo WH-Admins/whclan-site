@@ -11,11 +11,10 @@
     <h2 id="bannertext">This is the central hub for all of WH's action.</h2>
     <div id="bannerimg" style="background-image:url(images/head-loop-right.png)"> </div>
   </div>
-  <div id="contentarea"
+  <div id="contentarea">
     <div class="stackbox"> <!-- site description -->
-      <p class="important"> WH members, put this site on your favourites, make it your homepage, print it out and tape it to your forehead, or just refresh it every
-        once and a while; whatever makes more sense to you. </p>
-      <p> We believe that it is our collective interest as a clan to improve ourselves as players and as a team. In this interest, we endeavour to communicate and organise ourselves more effectively. This site is at the core of this effort. 
+      <p class="important"> WH members, put this site on your favourites, make it your homepage, print it out and tape it to your forehead, or just refresh it every once and a while; whatever makes more sense to you. </p>
+      <p> We believe that it is our collective interest as a clan to improve ourselves as players and as a team. In this interest, we endeavour to communicate and organise ourselves more effectively. This site is at the core of this effort. </p>
     </div>
     <div class="stackbox"> <!-- big links to reddit and IRC -->
       <div class="split"> <div class="paddedbox">
