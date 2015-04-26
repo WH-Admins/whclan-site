@@ -126,9 +126,16 @@ div.split {
   margin: 10px;
 }
 
+.sidebox {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .nohead {
-  padding-top: 0px;
-  margin-top: 0px;
+  padding-top: 0px !important;
+  margin-top: 0px !important;
 }
 
 p.important {

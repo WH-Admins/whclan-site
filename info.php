@@ -22,8 +22,8 @@ $news = get_news();
       <p class="important"> For the moment, you'll just find a feed from reddit below. </p>
     </div>
 
-    <div class="stackbox">
-      <div class="split"> <div class="paddedbox">
+    <div class="stackbox nohead">
+      <div class="split"> <div class="sidebox">
         <h3> News </h3>
         <?php foreach($news['news'] as $post){ ?>
             <div class="titlebox">
@@ -38,7 +38,7 @@ $news = get_news();
         <?php } ?>
       </div></div>
 
-      <div class="split"><div class="paddedbox">
+      <div class="split"><div class="sidebox">
         <h3> Calendar </h3>
         <?php foreach($news['calendar'] as $post){ ?>
           <div class="titlebox">

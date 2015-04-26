@@ -25,7 +25,7 @@
       </a> </div>
     </div>
     <div class="stackbox"> <!-- expectations and clan pie -->
-      <div class="split"><div class="paddedbox nohead"> <!-- split 1 -->
+      <div class="split"><div class="sidebox"> <!-- split 1 -->
         <div class="titlebox">We expect our members to:</div>
         <div class="contentbox">
           <ul>
