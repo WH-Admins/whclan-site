@@ -17,12 +17,12 @@
       <p> We believe that it is our collective interest as a clan to improve ourselves as players and as a team. In this interest, we endeavour to communicate and organise ourselves more effectively. This site is at the core of this effort. </p>
     </div>
     <div class="stackbox"> <!-- big links to reddit and IRC -->
-      <div class="split"> <div class="button">
-        <a href="#">Click here for a thing</a>
-      </div> </div>
-      <div class="split"> <div class="button">
-        <a href="#">Click here for another thing</a>
-      </div> </div>
+      <div class="split"> <a href="#">
+        <div class="button"> Our Subreddit! </div>
+      </a> </div>
+      <div class="split"> <a href="#">
+        <div class="button"> Our IRC Channel! </div>
+      </a> </div>
     </div>
     <div class="stackbox"> <!-- expectations and clan pie -->
       <div class="split"><div class="paddedbox nohead"> <!-- split 1 -->

@@ -11,26 +11,22 @@
   <span id="navtitle"> Website of the <b>Wreaking Havoc</b> Clan </span>
   <div id="navlinks">
     <span class="logo">&lt;8)</span>
-    <span id="org-link"> 
-      <a href="default.php">Organisation</a></span>
+    <span id="org-link" class="navbtn"> 
+      <a href="default.php">home</a></span>
 
     <span class="logo">&lt;8)</span>
     <span id="inf-link">
-      <a href="info.php">Information</a></span>
+      <a href="news.php">comms</a></span>
 
     <span class="logo">&lt;8)</span>
     <span id="comms-link"> 
-      <a href="comms.php">Communication</a></span>
-
-    <span class="logo">&lt;8)</span>
-    <span id="videos-link">
-      <a href="videos.php">Videos</a></span>
+      <a href="info.php">stuff</a></span>
 <?php
     if (isset($_SESSION['user_name'])) {
 ?>
     <span class="logo">&lt;8)</span>
     <span id="restricted-link">
-      <a href="restricted.php">Restricted</a></span>
+      <a href="restricted.php">Clan-Only</a></span>
 
     <span class="logo" style="padding-right:20px;"> | </span>
 

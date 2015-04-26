@@ -21,6 +21,19 @@ div#navcontent {
   min-width: 700px;
 }
 
+.navbtn {
+  font-family: Arial;
+  color: #ffffff;
+  background: black;
+  padding: 3px;
+  text-decoration: none;
+  text-align: center; 
+}
+
+.button:hover {
+  background: #383838;
+}
+
 span#navtitle {
   font-size: 26pt;
 }
@@ -37,7 +50,6 @@ div#navlinks {
 #navcontent a {
   color: #AAA;
 }
-
 /* end nav */
 
 /* begin site banner */
@@ -133,16 +145,11 @@ p.important {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   text-align: center; 
+  margin:5px;
 }
 
 .button:hover {
   background: #3cb0fd;
-  text-decoration: none;
-}
-
-.button a {
-  color: white;
-  font-size: 20px;
 }
 
 div.newsitem {
