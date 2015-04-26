@@ -124,13 +124,18 @@ p.important {
 
 /* begin misc */
 
-span.button {
-  background-color: blue;
-  color: white;
-  text-align: center;
-  margin: 10px;
-  font-size: 120%;
-  font-weight: bold;
+.button {
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #3cb0fd;
+  text-decoration: none;
 }
 
 div.newsitem {
