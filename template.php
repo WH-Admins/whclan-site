@@ -8,19 +8,30 @@
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
     <h1 id="bannertext"> #headtext </h1>
-    <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
+    <div class="bannerimg" style="background-image:url(images/head-bomber-right.png)"> </div>
   </div>
-  <div id="contentholder">
-    <div id="contentarea">
-      <div class="stackbox">
-        <p> Here's some text! </p>
+  <div id="contentarea">
+    <div class="stackbox">
+      <div class="split">
+        <div class="titlebox"> .titlebox </div>
+        <div class="contentbox">
+          <p> .contentbox </p>
+          <p> .contentbox </p>
+          <p> .contentbox </p>
+        </div>
       </div>
-      <div class="stackbox">
-        <p> Here's some more text! </p>
+      <div class="split">
+        <div class="titlebox"> .titlebox </div>
+        <div class="contentbox">
+          <p> .contentbox </p>
+          <p> .contentbox </p>
+          <p> .contentbox </p>
+          <p> .contentbox </p>
+        </div>
       </div>
-      <div class="stackbox">
-        <p> Here's even more text! </p>
-      </div>
+    </div>
+    <div class="stackbox">
+      <p> .stackbox </p>
     </div>
   </div>
 </body>
