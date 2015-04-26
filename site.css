@@ -41,6 +41,7 @@ span#navtitle {
 div#navlinks {
   display:inline-block; 
   max-height:1em;
+  margin-top:5px;
 }
 
 .logo {

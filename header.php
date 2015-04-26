@@ -26,7 +26,7 @@
 ?>
     <span class="logo">&lt;8)</span>
     <span id="restricted-link">
-      <a href="restricted.php" class="navbtn">Clan-Only</a></span>
+      <a href="restricted.php" class="navbtn">clan-only</a></span>
 
     <span class="logo" style="padding-right:20px;"> | </span>
 
