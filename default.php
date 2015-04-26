@@ -9,7 +9,7 @@
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
     <h2 id="bannertext">This is the central hub for all of WH's action.</h2>
-    <div id="bannerimg" style="background-image:url(images/head-loop-right.png)"> </div>
+    <div id="bannerimg" style="background-image:url(images/head-loopy-right.png)"> </div>
   </div>
   <div id="contentarea">
     <div class="stackbox"> <!-- site description -->
@@ -17,11 +17,11 @@
       <p> We believe that it is our collective interest as a clan to improve ourselves as players and as a team. In this interest, we endeavour to communicate and organise ourselves more effectively. This site is at the core of this effort. </p>
     </div>
     <div class="stackbox"> <!-- big links to reddit and IRC -->
-      <div class="split"> <div class="paddedbox">
-        Click here for a thing
+      <div class="split"> <div class="button">
+        <a href="#">Click here for a thing</a>
       </div> </div>
-      <div class="split"> <div class="paddedbox">
-        Click here for another things
+      <div class="split"> <div class="button">
+        <a href="#">Click here for another thing</a>
       </div> </div>
     </div>
     <div class="stackbox"> <!-- expectations and clan pie -->

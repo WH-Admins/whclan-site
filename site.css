@@ -123,6 +123,16 @@ p.important {
 /* end contentarea */
 
 /* begin misc */
+
+span.button {
+  background-color: blue;
+  color: white;
+  text-align: center;
+  margin: 10px;
+  font-size: 120%;
+  font-weight: bold;
+}
+
 div.newsitem {
   padding-left:20 ; font-size:120% ; padding-bottom:10
 }
