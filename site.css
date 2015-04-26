@@ -16,7 +16,8 @@ div#nav {
 }
 
 div#navcontent {
-  width: 1270px; margin: auto; color: white;
+  max-width: 1270px; margin: auto; color: white;
+  min-width: 700px;
 }
 
 span#navtitle {
@@ -78,15 +79,13 @@ div.stackbox {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-/* end contentarea */
 
-
-div.stackbox {
-  margin: 0px;
-  padding: 0px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+div.split {
+  width: 50%;
+  float: left;
+  height: 100%;
 }
+/* end contentarea */
 
 .paddedbox {
   padding: 10px;
@@ -108,8 +107,6 @@ div.stackbox {
   margin-top: 72px !important
 }
 
-
-
 .titlebox {
   font-size: 130%;
   background-color: #CCC;
@@ -123,12 +120,6 @@ div.stackbox {
   margin-left: 20px;
   border: 1px solid #BBB;
   border-top: 0px;
-}
-
-div.split {
-  width: 50%;
-  float: left;
-  height: 100%;
 }
 
 p.important {
