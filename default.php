@@ -18,7 +18,7 @@
     </div>
     <div class="stackbox"> <!-- big links to reddit and IRC -->
       <div class="split"> 
-        <a href="#" class="button"> Our Subreddit!  </a> 
+        <a href="subreddit.php" class="button"> Our Subreddit!  </a> 
       </div>
       <div class="split"> 
         <a href="irc.php" class="button"> Our IRC Channel!  </a> 
