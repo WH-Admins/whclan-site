@@ -21,12 +21,15 @@
       <style>
         div.bigbutton {
           background-color:red;
+          text-align:center;
           height:20px;
         }
       </style>
       <div class="split bigbutton">
+        Click here for a thing.
       </div>
-      <div class="split bigbutton">
+      <div class="split bigbutton" style="background-color:blue">
+        CLick here for another things.
       </div>
     </div>
     <div class="stackbox">
