@@ -2,6 +2,40 @@ html {
   overflow-x: hidden;
 }
 
+/* begin nav */
+div#nav {
+  height:24px;
+  padding: 15px 0px 15px;
+  background-color: black;
+
+  min-height: 75px; text-align: center;
+}
+
+div#navcontent {
+  width: 1270px; margin: auto; color: white;
+}
+
+span#navtitle {
+  font-size: 26pt;
+}
+
+span#navlinks {
+  display:inline-block; 
+}
+
+.logo {
+  color:red ; font-size:120% ; font-family:monospace
+}
+
+#navcontent a {
+  color: #AAA;
+}
+
+#navcontent span {
+  display: inline;
+}
+/* end nav */
+
 /* begin site banner */
 div#sitebanner {
   left: calc(-500000px + 50vw);
@@ -33,7 +67,7 @@ div#sitebanner {
 div#contentarea {
   margin: auto;
   width: 1270px;
-  margin-top: 72px !important;
+  margin-top: 130px !important;
 }
 
 div.stackbox {
@@ -43,10 +77,6 @@ div.stackbox {
 }
 /* end contentarea */
 
-.sitehead {
-    min-height: 75px;
-    text-align: center;
-}
 
 div.stackbox {
   margin: 0px;
@@ -102,9 +132,6 @@ p.important {
   color:grey ; font-size:110%
 }
 
-.logo {
-  color:red ; font-size:120% ; font-family:monospace
-}
 
 .newslink {
   font-size: 100%;
