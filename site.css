@@ -20,7 +20,7 @@ div#sitebanner {
   display: inline-block; position: static;
 }
 
-h2#bannertext {
+#bannertext {
   max-width: 100vw; white-space: normal;
   margin: 0; padding: 0; color: white;
   display:inline-block; min-height: 50px;
