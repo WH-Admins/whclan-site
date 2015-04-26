@@ -42,7 +42,6 @@ div#sitebanner {
   left: calc(-500000px + 50vw);
   margin: 0; padding: 0; position: absolute;
   white-space: nowrap; width:  1000000px;
-  margin-top:20px; padding-top:10px;
   text-align:center; background: #444;
   border: 1px solid #111;
 }
