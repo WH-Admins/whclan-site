@@ -14,13 +14,13 @@
     <span id="org-link"> 
       <a href="default.php" class="navbtn">home</a></span>
 
-    <span class="logo">&lt;8)</span>
-    <span id="comms-link">
-      <a href="comms.php" class="navbtn">comms</a></span>
+    <span class="news">&lt;8)</span>
+    <span id="info-link"> 
+      <a href="info.php" class="navbtn">info</a></span>
 
     <span class="logo">&lt;8)</span>
-    <span id="stuff-link"> 
-      <a href="stuff.php" class="navbtn">stuff</a></span>
+    <span id="videos-link"> 
+      <a href="videos.php" class="navbtn">videos</a></span>
 <?php
     if (isset($_SESSION['user_name'])) {
 ?>
