@@ -21,7 +21,7 @@
         <a href="#" class="button"> Our Subreddit!  </a> 
       </div>
       <div class="split"> 
-        <a href="#" class="button"> Our IRC Channel!  </a> 
+        <a href="irc.php" class="button"> Our IRC Channel!  </a> 
       </div>
     </div>
     <div class="stackbox"> <!-- expectations and clan pie -->

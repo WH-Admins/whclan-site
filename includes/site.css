@@ -184,4 +184,8 @@ strike {
 .thumbgroup {
   display: table-cell;
 }
+
+.monospace {
+  font-family:monospace;
+}
 /* end misc */
