@@ -10,51 +10,50 @@ $news = get_news();
 <body>
   <style> #inf-link { font-weight:bold } </style>
   <?php include "header.php"; ?>
-
-  <div class="headbox">
-    <div id="headimg" style="background-image:url(images/head-loop-left.png"> </div>
-    <h2 id="headtext">Real-time feed from Reddit.</h2>
-    <div id="headimg" style="background-image:url(images/head-randa-right.png"> </div>
+  <div id="sitebanner">
+    <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
+    <h1 id="bannertext"> Up-to-date Information </h1>
+    <div class="bannerimg" style="background-image:url(images/head-bomber-right.png)"> </div>
   </div>
 
-  <div class="container headmargin">
+  <div id="contentarea">
 
-    <div>
-      <div class="split"><div class="paddedbox">
+    <div class="stackbox">
+      <p class="important"> For the moment, you'll just find a feed from reddit below. </p>
+    </div>
+
+    <div class="stackbox">
+      <div class="split"> <div class="paddedbox">
         <h3> News </h3>
-
         <?php foreach($news['news'] as $post){ ?>
             <div class="titlebox">
               <?php echo($post->{'title'});?>
               <a href="<?php echo($post->{'url'}); ?> ">
-                <span class="newslink">reddit</span>
+                <span class="boxsubtitle">reddit</span>
               </a>
             </div>
             <div class="contentbox">
               <?php print(html_entity_decode($post->{'selftext_html'})); ?>
             </div>
         <?php } ?>
-
       </div></div>
 
       <div class="split"><div class="paddedbox">
         <h3> Calendar </h3>
-
         <?php foreach($news['calendar'] as $post){ ?>
-            <div class="titlebox">
-              <?php echo($post->{'title'});?>
-              <a href="<?php echo($post->{'url'}); ?> ">
-                <span class="newslink">reddit</span>
-              </a>
-            </div>
-            <div class="contentbox">
-              <?php print(html_entity_decode($post->{'selftext_html'})); ?>
-            </div>
+          <div class="titlebox">
+            <?php echo($post->{'title'});?>
+            <a href="<?php echo($post->{'url'}); ?> ">
+              <span class="boxsubtitle">reddit</span>
+            </a>
+          </div>
+          <div class="contentbox">
+            <?php print(html_entity_decode($post->{'selftext_html'})); ?>
+          </div>
         <?php } ?>
-
       </div></div>
-    </div> <!-- end of content-box -->
+    </div> <!-- end of big stackbox -->
 
-  </div> <!-- end of container -->
+  </div> <!-- end of contentarea -->
 </body>
 </html>
