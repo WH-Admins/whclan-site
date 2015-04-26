@@ -2,6 +2,10 @@ html {
   overflow-x: hidden;
 }
 
+body {
+  margin:0px; padding:0px;
+}
+
 /* begin nav */
 div#nav {
   height:24px;
@@ -19,7 +23,7 @@ span#navtitle {
   font-size: 26pt;
 }
 
-span#navlinks {
+div#navlinks {
   display:inline-block; 
 }
 
@@ -31,9 +35,6 @@ span#navlinks {
   color: #AAA;
 }
 
-#navcontent span {
-  display: inline;
-}
 /* end nav */
 
 /* begin site banner */

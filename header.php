@@ -9,7 +9,7 @@
 
 <div id="nav"> <div id="navcontent">
   <span id="navtitle"> Website of the <b>Wreaking Havoc</b> Clan </span>
-  <span id="navlinks">
+  <div id="navlinks">
     <span class="logo">&lt;8)</span>
     <span id="org-link"> 
       <a href="default.php">Organisation</a></span>
@@ -50,6 +50,7 @@
     } else {
 ?>
     <span class="logo" style="padding-right:20px;"> | </span>
+
     <span id="login-link">
       <a href="login.php">Login</a></span>
 <?php
