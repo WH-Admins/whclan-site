@@ -6,9 +6,9 @@
 <body>
   <?php include "header.php"; ?>
   <div id="sitebanner">
-    <div class="headimg" style="background-image:url(images/head-randa-left.png)"> </div>
-    <h1 id="headtext"> #headtext </h1>
-    <div class="headimg" style="background-image:url(images/head-randa-left.png)"> </div>
+    <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
+    <h1 id="bannertext"> #headtext </h1>
+    <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
   </div>
   <div id="contentarea">
     <div class="stackbox">
@@ -21,3 +21,5 @@
       <p> Here's even more text! </p>
     </div>
   </div>
+</body>
+</html>
