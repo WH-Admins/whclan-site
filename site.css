@@ -3,7 +3,7 @@ html {
 }
 
 /* begin site banner */
-div.#sitebanner {
+div#sitebanner {
   left: calc(-500000px + 50vw);
   margin: 0; padding: 0; position: absolute;
   white-space: nowrap; width:  1000000px;
