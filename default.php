@@ -9,7 +9,7 @@
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
     <h2 id="bannertext">This is the central hub for all of WH's action.</h2>
-    <div class="bannerimg" style="background-image:url(images/head-loopy-right.png)"> </div>
+    <div class="bannerimg" style="background-image:url(images/head-loop-right.png)"> </div>
   </div>
   <div id="contentarea">
     <div class="stackbox"> <!-- site description -->
