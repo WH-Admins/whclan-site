@@ -88,6 +88,8 @@ div#contentarea {
   margin: auto;
   max-width: 1270px;
   margin-top: 90px !important;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 div.stackbox {
