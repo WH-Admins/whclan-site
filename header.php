@@ -14,7 +14,7 @@
     <span id="org-link"> 
       <a href="default.php" class="navbtn">home</a></span>
 
-    <span class="news">&lt;8)</span>
+    <span class="logo">&lt;8)</span>
     <span id="info-link"> 
       <a href="info.php" class="navbtn">info</a></span>
 
