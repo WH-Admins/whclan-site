@@ -1,7 +1,7 @@
 <html>
 <head>
   <?php include "imports.php"; ?>
-  <title>Template Page>
+  <title>Template Page </title>
 </head>
 <body>
   <?php include "header.php"; ?>
