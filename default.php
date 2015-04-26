@@ -20,9 +20,9 @@
       <div class="split"> <a href="#">
         <div class="button"> Our Subreddit! </div>
       </a> </div>
-      <div class="split"> <a href="#">
-        <div class="button"> Our IRC Channel! </div>
-      </a> </div>
+      <div class="split"> 
+        <a href="#" class="button"> Our IRC Channel!  </a> 
+      </div>
     </div>
     <div class="stackbox"> <!-- expectations and clan pie -->
       <div class="split"><div class="sidebox"> <!-- split 1 -->

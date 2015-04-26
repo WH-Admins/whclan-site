@@ -154,6 +154,7 @@ p.important {
   text-decoration: none;
   text-align: center; 
   margin:5px;
+  display:block;
 }
 
 .button:hover {
