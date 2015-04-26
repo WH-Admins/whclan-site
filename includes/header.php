@@ -45,7 +45,7 @@
       }
     } else {
 ?>
-    <span class="logo" style="padding-right:20px;"> | </span>
+    <span class="logo" style="padding-left:20px; padding-right:20px;"> | </span>
 
     <span id="login-link">
       <a href="login.php" class="navbtn">login</a></span>
