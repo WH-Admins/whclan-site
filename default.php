@@ -12,12 +12,12 @@
       <div id="headimg" style="background-image:url(images/head-loop-right.png)"> </div>
     </div>
   <div class="container headmargin">
-    <div class="paddedbox">
+    <div class="stackbox">
       <p class="important"> WH members, put this site on your favourites, make it your homepage, print it out and tape it to your forehead, or just refresh it every
         once and a while; whatever makes more sense to you. </p>
       <p> We believe that it is our collective interest as a clan to improve ourselves as players and as a team. In this interest, we endeavour to communicate and organise ourselves more effectively. This site is at the core of this effort. 
     </div>
-    <div>
+    <div class="stackbox">
       <style>
         div.bigbutton {
           background-color:red;
@@ -29,7 +29,7 @@
       <div class="split bigbutton">
       </div>
     </div>
-    <div>
+    <div class="stackbox">
       <div class="split"><div class="paddedbox nohead">
         <div class="titlebox">We expect our members to:</div>
         <div class="contentbox">

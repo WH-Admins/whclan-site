@@ -11,6 +11,13 @@ html {
     text-align: center;
 }
 
+.stackbox {
+  margin: 0px;
+  padding: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .paddedbox {
   padding: 10px;
   margin: 10px;
