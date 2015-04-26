@@ -79,6 +79,7 @@ div.stackbox {
   padding: 0px; margin: 0px;
   margin-top: 20px;
   margin-bottom: 20px;
+  overflow: hidden; /* float containment is WEIRD */
 }
 
 div.split {
@@ -94,6 +95,10 @@ div.split {
   padding: 3px;
 }
 
+.boxsubtitle {
+  float: right;
+}
+
 .contentbox {
   padding: 10px;
   margin-bottom: 20px;
@@ -101,7 +106,6 @@ div.split {
   border: 1px solid #BBB;
   border-top: 0px;
 }
-/* end contentarea */
 
 .paddedbox {
   padding: 10px;
@@ -113,27 +117,12 @@ div.split {
   margin-top: 0px;
 }
 
-.greybox {
-  background: #EEE;
-  border: 1px solid #CCC
-}
-
-
-.headmargin{
-  margin-top: 72px !important
-}
-
-
 p.important {
   color:grey ; font-size:110%
 }
+/* end contentarea */
 
-
-.newslink {
-  font-size: 100%;
-  float: right;
-}
-
+/* begin misc */
 div.newsitem {
   padding-left:20 ; font-size:120% ; padding-bottom:10
 }
@@ -157,3 +146,4 @@ strike {
 .thumbgroup {
   display: table-cell;
 }
+/* end misc */
