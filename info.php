@@ -11,9 +11,9 @@ $news = get_news();
   <style> #inf-link { font-weight:bold } </style>
   <?php include "includes/header.php"; ?>
   <div id="sitebanner">
-    <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
+    <div class="bannerimg" style="background-image:url(images/head-bomber-left.png)"> </div>
     <h1 id="bannertext"> Up-to-date Information </h1>
-    <div class="bannerimg" style="background-image:url(images/head-bomber-right.png)"> </div>
+    <div class="bannerimg" style="background-image:url(images/head-explodet-right.png)"> </div>
   </div>
 
   <div id="contentarea">
