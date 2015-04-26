@@ -36,6 +36,7 @@ div#navcontent {
 
 span#navtitle {
   font-size: 26pt;
+  display:block;
 }
 
 div#navlinks {
