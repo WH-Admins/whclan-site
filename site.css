@@ -71,7 +71,7 @@ div#sitebanner {
 /* begin contentarea */
 div#contentarea {
   margin: auto;
-  width: 1270px;
+  max-width: 1270px;
   margin-top: 130px !important;
 }
 
