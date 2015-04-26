@@ -44,6 +44,8 @@ div#sitebanner {
   white-space: nowrap; width:  1000000px;
   text-align:center; background: #444;
   border: 1px solid #111;
+
+  margin-top: 7px;
 }
 
 .bannerimg {
