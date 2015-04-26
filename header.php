@@ -11,8 +11,8 @@
   <span id="navtitle"> Website of the <b>Wreaking Havoc</b> Clan </span>
   <div id="navlinks">
     <span class="logo">&lt;8)</span>
-    <span id="org-link" class="navbtn"> 
-      <a href="default.php">home</a></span>
+    <span id="org-link"> 
+      <a href="default.php" class="navbtn">home</a></span>
 
     <span class="logo">&lt;8)</span>
     <span id="inf-link">
