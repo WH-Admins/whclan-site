@@ -18,11 +18,15 @@
       <p> We believe that it is our collective interest as a clan to improve ourselves as players and as a team. In this interest, we endeavour to communicate and organise ourselves more effectively. This site is at the core of this effort. 
     </div>
     <div>
-      <div class="split">
-        <div style="background-color:red"></div>
+      <style>
+        div.bigbutton {
+          background-color:red;
+          height:20px;
+        }
+      </style>
+      <div class="split bigbutton">
       </div>
-      <div class="split">
-        <div style="background-color:blue"></div>
+      <div class="split bigbutton">
       </div>
     </div>
     <div>
