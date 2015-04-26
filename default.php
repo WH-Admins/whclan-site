@@ -11,7 +11,7 @@
       <h2 id="headtext">This is the central hub for all of WH's action.</h2>
       <div id="headimg" style="background-image:url(images/head-loop-right.png)"> </div>
     </div>
-  <div class="container headmargin">
+  <div id="contentarea"
     <div class="stackbox">
       <p class="important"> WH members, put this site on your favourites, make it your homepage, print it out and tape it to your forehead, or just refresh it every
         once and a while; whatever makes more sense to you. </p>
