@@ -18,10 +18,10 @@
     </div>
     <div class="stackbox"> <!-- big links to reddit and IRC -->
       <div class="split"> <div class="button">
-        <a href="#" class="button">Click here for a thing</a>
+        <a href="#">Click here for a thing</a>
       </div> </div>
       <div class="split"> <div class="button">
-        <a href="#" class="button">Click here for another thing</a>
+        <a href="#">Click here for another thing</a>
       </div> </div>
     </div>
     <div class="stackbox"> <!-- expectations and clan pie -->
