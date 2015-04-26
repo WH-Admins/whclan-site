@@ -17,9 +17,9 @@
       <p> We believe that it is our collective interest as a clan to improve ourselves as players and as a team. In this interest, we endeavour to communicate and organise ourselves more effectively. This site is at the core of this effort. </p>
     </div>
     <div class="stackbox"> <!-- big links to reddit and IRC -->
-      <div class="split"> <a href="#">
-        <div class="button"> Our Subreddit! </div>
-      </a> </div>
+      <div class="split"> 
+        <a href="#" class="button"> Our Subreddit!  </a> 
+      </div>
       <div class="split"> 
         <a href="#" class="button"> Our IRC Channel!  </a> 
       </div>
