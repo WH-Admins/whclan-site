@@ -1,7 +1,7 @@
 <html>
 <head>
   <?php include "includes/imports.php"; ?>
-  <title>Template Page </title>
+  <title>Clan IRC</title>
 </head>
 <body>
   <?php include "includes/header.php"; ?>
