@@ -2,36 +2,43 @@
 <html>
 <head>
   <title>WH Test Page</title>
-  <?php include "imports.php"; ?>
+  <?php include "includes/imports.php"; ?>
 </head>
 <body>
   <style> #restricted-link { font-weight:bold; } </style>
-  <?php include "header.php"; ?>
-    <div class="headbox">
-      <div id="headimg" style="background-image:url(images/head-explodet-left.png)"> </div>
-      <h2 id="headtext"> Restricted member-only resources. </h2>
-      <div id="headimg" style="background-image:url(images/head-randa-right.png)"> </div>
-    </div>
-  <div class="container headmargin">
-    <div class="paddedbox"> 
+  <?php include "includes/header.php"; ?>
+  <div id="sitebanner">
+    <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
+    <h1 id="bannertext"> Member-only Resources </h1>
+    <div class="bannerimg" style="background-image:url(images/head-bomber-right.png)"> </div>
+  </div>
+
+  <div id="contentarea">
 <?php
     if ($login->isUserLoggedIn() == false) {
 ?>
 
-      <p style="color: #F66;"> Only members can view this page, click <a href='login.php'>here</a> to login.</p>
+    <div class="stackbox">
+      <p class="important"> Only members can view this page, click <a href='login.php'>here</a> to login.</p>
+    </div>
 
 <?php
     } else {
 ?>
-    <p class="important"> Some stuff is best kept secret. </p>
-    <div class="titlebox headless"> Some secret stuff </div>
-    <div class="contentbox"> 
-      <p> link to the Google Docs: <a href="https://docs.google.com/spreadsheets/d/1SzqZvYW-npuz9vYqTB6ovU4QYf0fgXcWkhZz4bJvJZ4/edit#gid=1529951854">here</a> </p>
+
+    <div class="stackbox">
+      <p class="important"> Some things are best kep secret. </p>
+    </div>
+
+    <div class="stackbox">
+      <div class="titlebox"> Some secret stuff </div>
+      <div class="contentbox"> 
+        <p> link to the Google Docs: <a href="https://docs.google.com/spreadsheets/d/1SzqZvYW-npuz9vYqTB6ovU4QYf0fgXcWkhZz4bJvJZ4/edit#gid=1529951854">here</a> </p>
+      </div>
     </div>
 <?php
     }
 ?>
-
     </div>
   </div>
   </div>

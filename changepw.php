@@ -2,12 +2,12 @@
 <html>
 <head>
   <title>WH Change Password</title>
-  <?php include "imports.php"; ?>
+  <?php include "includes/imports.php"; ?>
   </style>
 </head>
 <body>
   <style> #login-link { font-weight:bold; } </style>
-  <?php include "header.php"; ?>
+  <?php include "includes/header.php"; ?>
   <div class="container">
     <h2>Change Password</h2>
 <?php

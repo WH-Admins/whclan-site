@@ -4,12 +4,12 @@ $news = get_news();
 ?>
 <html>
 <head>
-  <?php include "imports.php"; ?>
+  <?php include "includes/imports.php"; ?>
   <title>WH News</title>
 </head>
 <body>
   <style> #inf-link { font-weight:bold } </style>
-  <?php include "header.php"; ?>
+  <?php include "includes/header.php"; ?>
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
     <h1 id="bannertext"> Up-to-date Information </h1>

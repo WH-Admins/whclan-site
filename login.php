@@ -2,11 +2,11 @@
 <html>
 <head>
   <title>WH Login</title>
-  <?php include "imports.php"; ?>
+  <?php include "includes/imports.php"; ?>
 </head>
 <body>
   <style> #login-link { font-weight:bold; } </style>
-  <?php include "header.php"; ?>
+  <?php include "includes/header.php"; ?>
   <div class="container">
 
 <?php

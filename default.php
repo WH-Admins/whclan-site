@@ -1,11 +1,11 @@
 <html>
 <head>
-  <?php include "imports.php"; ?>
+  <?php include "includes/imports.php"; ?>
   <title>WH Clan</title>
 </head>
 <body>
   <style> #org-link { font-weight:bold } </style>
-  <?php include "header.php"; ?>
+  <?php include "includes/header.php"; ?>
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
     <h2 id="bannertext">This is the central hub for all of WH's action.</h2>
@@ -37,7 +37,7 @@
         </div> 
       </div> </div> 
       <div class="split"> <!-- split 2 -->
-        <div align="center"> <img style="width: 100%;" src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
+        <div class="sidebox" align="center"> <img style="width: 100%;" src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
       </div> <!-- split 2 ends -->
     </div>
   </div>

@@ -1,10 +1,10 @@
 <html>
 <head>
-  <?php include "imports.php"; ?>
+  <?php include "includes/imports.php"; ?>
   <title>Template Page </title>
 </head>
 <body>
-  <?php include "header.php"; ?>
+  <?php include "includes/header.php"; ?>
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
     <h1 id="bannertext"> #headtext </h1>
