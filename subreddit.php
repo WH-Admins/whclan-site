@@ -1,4 +1,4 @@
-<html>
+<?php include "includes/doctype.php" ?>
 <head>
   <?php include "includes/imports.php"; ?>
   <title>Clan Subreddit!</title>
