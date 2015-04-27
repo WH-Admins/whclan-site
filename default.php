@@ -1,3 +1,4 @@
+<?php include "includes/doctype.php"?>
 <html>
 <head>
   <?php include "includes/imports.php"; ?>
