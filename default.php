@@ -1,10 +1,10 @@
 <?php include "includes/doctype.php"?>
 <head>
   <?php include "includes/imports.php"; ?>
+  <style type="text/css"> #org-link { font-weight:bold } </style>
   <title>WH Clan</title>
 </head>
 <body>
-  <style> #org-link { font-weight:bold } </style>
   <?php include "includes/header.php"; ?>
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
@@ -37,7 +37,9 @@
         </div> 
       </div> </div> 
       <div class="split"> <!-- split 2 -->
-        <div class="sidebox"> <img style="width: 100%;" src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
+        <div class="sidebox"> 
+          <img style="width: 100%;" src="http://i.imgur.com/XYDxm10.jpg" alt="clan pie"/> 
+        </div>
       </div> <!-- split 2 ends -->
     </div>
   </div>
