@@ -1,5 +1,4 @@
 <?php include "includes/doctype.php"?>
-<html>
 <head>
   <?php include "includes/imports.php"; ?>
   <title>WH Clan</title>
@@ -38,7 +37,7 @@
         </div> 
       </div> </div> 
       <div class="split"> <!-- split 2 -->
-        <div class="sidebox" align="center"> <img style="width: 100%;" src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
+        <div class="sidebox"> <img style="width: 100%;" src="http://i.imgur.com/XYDxm10.jpg" width=500/> </div>
       </div> <!-- split 2 ends -->
     </div>
   </div>
