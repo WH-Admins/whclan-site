@@ -12,7 +12,7 @@
     <h1 id="bannertext"> Login Page </h1>
     <div class="bannerimg" style="background-image:url(images/head-bomber-right.png)"> </div>
   </div>
-  <div class="contentarea">
+  <div id="contentarea">
     <div class="stackbox">
       <p class="important"> Don't have an account on the site yet? Ask a clan leader for one. </p>
     </div>
