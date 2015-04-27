@@ -24,29 +24,29 @@
       <div class="thumbgroup">
       <div class="videothumb"><a href="https://youtu.be/GdLxdeIslTo">
       <img alt="video thumbnail" src="thumbs/190415_rotw_qq_scrapyard.png"></a>
-      <div class="thumbtext"> &lt8) RoTW vs qq - <b>Scrapyard</b> </div>
+      <div class="thumbtext"> &lt;8) RoTW vs qq - <b>Scrapyard</b> </div>
       </div>
       <div class="videothumb"><a href="https://youtu.be/y8vQoDcaAtc">
       <img alt="video thumbnail" src="thumbs/190415_rotw_qq_justice.png"></a>
-      <div class="thumbtext"> &lt8) RoTW vs qq - <b>Justice</b> </div>
+      <div class="thumbtext"> &lt;8) RoTW vs qq - <b>Justice</b> </div>
       </div>
 
       <div class="videothumb"><a href="https://youtu.be/bOtnMlbzP98">
       <img alt="video thumbnail" src="thumbs/190415_eu_i_cave.png"></a>
-      <div class="thumbtext"> &lt8) EU vs &lti&gt- <b>Cave</b> </div>
+      <div class="thumbtext"> &lt;8) EU vs &lt;i&gt;- <b>Cave</b> </div>
       </div>
       <div class="videothumb"><a href="https://youtu.be/MdOcRxDc_VQ">
       <img alt="video thumbnail" src="thumbs/190415_eu_i_focus.png"></a>
-      <div class="thumbtext"> &lt8) EU vs &lti&gt - <b>Focus</b> </div>
+      <div class="thumbtext"> &lt;8) EU vs &lt;i&gt; - <b>Focus</b> </div>
       </div>
 
       <div class="videothumb"><a href="https://youtu.be/is2MyPVBMAI">
       <img alt="video thumbnail" src="thumbs/190415_eu_qq_asteroids.png"></a>
-      <div class="thumbtext"> &lt8) EU vs qq - <b>Asteroids</b> </div>
+      <div class="thumbtext"> &lt;8) EU vs qq - <b>Asteroids</b> </div>
       </div>
       <div class="videothumb"><a href="https://youtu.be/iqy4-vDVZ_k">
       <img alt="video thumbnail" src="thumbs/190415_eu_qq_core.png"></a>
-      <div class="thumbtext"> &lt8) EU vs qq - <b>Core</b> </div>
+      <div class="thumbtext"> &lt;8) EU vs qq - <b>Core</b> </div>
       </div>
       </div>
 
@@ -54,19 +54,19 @@
       <div class="thumbgroup">
       <div class="videothumb"><a href="https://youtu.be/Jt15OAAyywE">
       <img alt="video thumbnail" src="thumbs/240315_cave.png"></a>
-      <div class="thumbtext"> &lt8) vs &lti&gt - <b>Cave</b> </div>
+      <div class="thumbtext"> &lt;8) vs &lt;i&gt; - <b>Cave</b> </div>
       </div>
       <div class="videothumb"><a href="https://youtu.be/zggwVl-8qOQ">
       <img alt="video thumbnail" src="thumbs/240315_asteroids.png"></a>
-      <div class="thumbtext"> &lt8) vs &lti&gt - <b>Asteroids</b> </div>
+      <div class="thumbtext"> &lt;8) vs &lt;i&gt; - <b>Asteroids</b> </div>
       </div>
       <div class="videothumb"><a href="https://youtu.be/pvfJCZk150w">
       <img alt="video thumbnail" src="thumbs/240315_focus.png"></a>
-      <div class="thumbtext"> &lt8) vs &lti&gt - <b>Focus</b> </div>
+      <div class="thumbtext"> &lt;8) vs &lt;i&gt; - <b>Focus</b> </div>
       </div>
       <div class="videothumb"><a href="https://youtu.be/1D0fF4BX8-A">
       <img alt="video thumbnail" src="thumbs/240315_grotto.png"></a>
-      <div class="thumbtext"> &lt8) vs &lti&gt - <b>Grotto</b> </div>
+      <div class="thumbtext"> &lt;8) vs &lt;i&gt; - <b>Grotto</b> </div>
       </div> </div>
 
     </div> <!-- end stackbox -->
