@@ -1,5 +1,4 @@
-<html>
-<head>
+<?php include "includes/doctype.php"?>
   <?php include "includes/imports.php"; ?>
   <title>Clan IRC</title>
 </head>

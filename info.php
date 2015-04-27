@@ -2,13 +2,12 @@
 require_once('classes/redditNews.php');
 $news = get_news();
 ?>
-<html>
-<head>
+<?php include "includes/doctype.php"?>
   <?php include "includes/imports.php"; ?>
   <title>WH Info</title>
+  <style type="text/css"> #info-link { font-weight:bold } </style>
 </head>
 <body>
-  <style> #info-link { font-weight:bold } </style>
   <?php include "includes/header.php"; ?>
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-bomber-left.png)"> </div>
