@@ -18,7 +18,6 @@ div#nav {
 
 div#navcontent {
   max-width: 1270px; margin: auto; color: white;
-  min-width: 700px;
 }
 
 .navbtn {
@@ -37,13 +36,14 @@ div#navcontent {
 span#navtitle {
   font-size: 26pt;
   display:block;
+  min-width: 700px;
 }
 
 div#navlinks {
   display:inline-block; 
-  max-height:1em;
   margin-top:5px;
   font-size: 20px;
+  overflow: hidden;
 }
 
 .logo {
