@@ -13,9 +13,17 @@
     <div class="bannerimg" style="background-image:url(images/head-bomber-right.png)"> </div>
   </div>
   <div id="contentarea">
+<?php
+    if ($login->isUserLoggedIn() == false) {
+?>
     <div class="stackbox">
       <p class="important"> Don't have an account on the site yet? Ask a clan leader for one. </p>
     </div>
+
+<?php
+    }
+?>
+
     <div class="stackbox">
 
 <?php
