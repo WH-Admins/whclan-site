@@ -9,7 +9,8 @@ body {
 
 /* begin nav */
 div#nav {
-  padding: 15px 0px 15px;
+  padding: 0px;
+  padding-top: 15px;
   background-color: #212121;
   text-align: center;
 
@@ -22,9 +23,12 @@ div#navcontent {
 
 .navbtn {
   font-family: Arial;
-  padding: 7px;
+  padding: 15px;
+  padding-bottom: 5px;
+  padding-top: 10px;
   text-decoration: none;
   text-align: center; 
+  display: inline-block;
 }
 
 .navbtn:hover {
@@ -40,7 +44,6 @@ span#navtitle {
 
 div#navlinks {
   display:inline-block; 
-  margin-top:5px;
   font-size: 20px;
   overflow: hidden;
 }
