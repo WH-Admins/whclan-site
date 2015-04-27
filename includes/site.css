@@ -19,6 +19,8 @@ div#nav {
 
 div#navcontent {
   max-width: 1270px; margin: auto; color: white;
+  margin-top: 15px;
+  margin-bottom: 10px;
 }
 
 .navbtn {
