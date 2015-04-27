@@ -7,7 +7,16 @@
 <body>
   <style> #login-link { font-weight:bold; } </style>
   <?php include "includes/header.php"; ?>
-  <div class="container">
+  <div id="sitebanner">
+    <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>
+    <h1 id="bannertext"> Login Page </h1>
+    <div class="bannerimg" style="background-image:url(images/head-bomber-right.png)"> </div>
+  </div>
+  <div class="contentarea">
+    <div class="stackbox">
+      <p class="important"> Don't have an account on the site yet? Ask a clan leader for one. </p>
+    </div>
+    <div class="stackbox">
 
 <?php
     if ($login->isUserLoggedIn() == true) {
@@ -53,6 +62,7 @@
 <?php
     }
 ?>
+  </div>
 
   </div>
 </body>
