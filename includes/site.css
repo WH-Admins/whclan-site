@@ -9,11 +9,11 @@ body {
 
 /* begin nav */
 div#nav {
-  height:24px;
   padding: 15px 0px 15px;
   background-color: black;
+  text-align: center;
 
-  min-height: 80px; text-align: center;
+  overflow: hidden;
 }
 
 div#navcontent {
