@@ -17,7 +17,7 @@
     </div>
     <div class="stackbox">
       <div class="split"> <div class="sidebox">
-        <p> If you already use IRC, just point your client to <span class="monospace">#wreaking</span> on <span class="monospace">irc.freenode.net</span>. If you don't already use IRC, click the link below: (be sure to change "Nickname" to something we can recognize and isn't already taken)
+        <p> If you already use IRC, just point your client to <span class="monospace">#wreaking</span> on <span class="monospace">irc.freenode.net</span>. If you don't already use IRC, click the link below: (be sure to change "Nickname" to something we can recognize and isn't already taken) </p>
         <div>
           <div class="split">
             <a class="button" href="https://kiwiirc.com/client/irc.freenode.net/?nick=Nickname|?#wreaking"> awesome, easy mibbit client </a>
