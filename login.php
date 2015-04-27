@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html>
+<?php include "includes/doctype.php" ?>
 <head>
   <title>WH Login</title>
   <?php include "includes/imports.php"; ?>
+  <style type="text/css"> #login-link { font-weight:bold; } </style>
 </head>
 <body>
-  <style> #login-link { font-weight:bold; } </style>
   <?php include "includes/header.php"; ?>
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-randa-left.png)"> </div>

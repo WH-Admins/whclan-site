@@ -3,6 +3,7 @@ require_once('classes/redditNews.php');
 $news = get_news();
 ?>
 <?php include "includes/doctype.php"?>
+<head>
   <?php include "includes/imports.php"; ?>
   <title>WH Info</title>
   <style type="text/css"> #info-link { font-weight:bold } </style>
