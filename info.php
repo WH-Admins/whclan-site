@@ -5,10 +5,10 @@ $news = get_news();
 <html>
 <head>
   <?php include "includes/imports.php"; ?>
-  <title>WH News</title>
+  <title>WH Info</title>
 </head>
 <body>
-  <style> #inf-link { font-weight:bold } </style>
+  <style> #info-link { font-weight:bold } </style>
   <?php include "includes/header.php"; ?>
   <div id="sitebanner">
     <div class="bannerimg" style="background-image:url(images/head-bomber-left.png)"> </div>
