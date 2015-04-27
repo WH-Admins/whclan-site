@@ -10,7 +10,7 @@ body {
 /* begin nav */
 div#nav {
   padding: 15px 0px 15px;
-  background-color: black;
+  background-color: #121212;
   text-align: center;
 
   overflow: hidden;
@@ -22,8 +22,6 @@ div#navcontent {
 
 .navbtn {
   font-family: Arial;
-  color: #ffffff;
-  background: black;
   padding: 7px;
   text-decoration: none;
   text-align: center; 
@@ -34,9 +32,10 @@ div#navcontent {
 }
 
 span#navtitle {
-  font-size: 26pt;
-  display:block;
+  font-size: 30pt;
+  display: block;
   min-width: 700px;
+  padding-bottom: 10px;
 }
 
 div#navlinks {
