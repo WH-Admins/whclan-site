@@ -18,7 +18,14 @@
     <div class="stackbox">
       <div class="split"> <div class="sidebox">
         <p> If you don't already have an reddit account, this would be a great time to make one. Once you do, be sure to make a post in our roll call thread (on the top of the page) so we know who you are on reddit. </p>
-        <a class="button" href="http://www.reddit.com/r/whclan"> here's our cool subreddit </a>
+        <div>
+          <div class="split">
+            <a class="button" href="http://www.reddit.com/r/whclan"> here's our cool subreddit </a>
+          </div>
+          <div class="split">
+            <a class="button" href="default.php"> go back to site home </a>
+          </div>
+        </div>
       </div> </div>
       <div class="split">
         <div class="titlebox">
